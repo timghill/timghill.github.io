@@ -19,10 +19,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   A central location to collect tips, code snippets, scripts, functions,
   and any other useful information for running glaciology models and
   analyzing their outputs using Matlab and more.
-twitter_username: UWglacier
-github_username: uwglacier
+twitter_username: timghill
+github_username: timghill
 # minimal_mistakes_skin: air
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -64,28 +64,28 @@ kramdown:
   math_engine: mathjax
 
 author:
-  name   : "UW Glaciology Group"
+  name   : "Tim Hill"
   avatar : "/assets/images/mountain.png"
-  bio    : "Scripts, functions, code snippets, tips, and more!"
+  bio    : "MMATH candidate in Applied Math at the University of Waterloo. Glacier mass balance and hydrology modelling"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://uwglacier.wordpress.com/"
+      url: "https://uwaterloo.ca/scholar/tghill"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/UWGlacier"
+      url: "https://twitter.com/TimGHill"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/uwglacier"
+      url: "https://github.com/timghill"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/UWGlacier"
+      url: "https://twitter.com/TimGHill"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/uwglacier"
+      url: "https://github.com/timghill"
 
 defaults:
   # _posts

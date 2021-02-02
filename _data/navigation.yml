@@ -1,9 +1,5 @@
 main:
-  - title: "About"
-    url: /about/
-  - title: "GlaDS"
-    url: /glads/
-  - title: "Matlab"
-    url: /matlab/
-  - title: "Other"
-    url: /other/
+  - title: "Projects"
+    url: /projects/
+  - title: "Publications"
+    url: /publications.html

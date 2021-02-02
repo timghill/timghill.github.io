@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Projects"
-permalink: /seb/
+permalink: /projects/seb/
 ---
 
 Projects homepage!

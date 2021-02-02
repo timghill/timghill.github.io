@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Projects"
-permalink: /sads/
+permalink: /projects/sads/
 ---
 
 Projects homepage!

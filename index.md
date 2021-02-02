@@ -4,30 +4,27 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+  overlay_image: /assets/images/GypsumHillDesktop_downsized.png
 feature_row:
   - image_path: /assets/mountain.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    alt: "Palettes"
+    title: "Palettes"
+    excerpt: "Colourmaps for scientific visualization"
+    url: "/projects/palettes/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/mountain.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    alt: "SEB model"
+    title: "SEB model"
+    excerpt: "A surface energy balance model for high resolution melt modelling"
+    url: "/projects/seb/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/mountain.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    alt: "Future project"
+    title: "Future project - SaDS"
+    excerpt: "Maybe SaDS?"
+    url: "/projects/sads/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---

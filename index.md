@@ -27,8 +27,7 @@ feature_row:
     url: "/projects/sads/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
+title: "Projects"
 ---
-
-# Projects
 
 {% include feature_row %}

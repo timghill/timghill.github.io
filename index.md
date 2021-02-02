@@ -29,4 +29,6 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
+# Projects
+
 {% include feature_row %}

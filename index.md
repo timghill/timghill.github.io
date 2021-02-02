@@ -20,7 +20,7 @@ feature_row:
     url: "/projects/seb/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/mountain.png
+  - image_path: /assets/images/mountain.png
     alt: "Future project"
     title: "Future project - SaDS"
     excerpt: "Maybe SaDS?"

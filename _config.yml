@@ -65,7 +65,7 @@ kramdown:
 
 author:
   name   : "Tim Hill"
-  avatar : "/assets/images/mountain.png"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "MMATH candidate in Applied Math at the University of Waterloo. Glacier mass balance and hydrology modelling"
   links:
     - label: "Website"

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Projects"
-permalink: /projects/
+permalink: /palettes/
 ---
 
 Projects homepage!

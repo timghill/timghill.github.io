@@ -1,11 +1,13 @@
 ---
 permalink: /about/
 title: "About"
-classes: wide
-header: 
-  image: /assets/images/GypsumHillDesktop_downsized.png
+layout: single
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm an MMATH candidate in Applied Math at the University of Waterloo. I'm generally interested in applying numerical models to physical systems, particularly glaciers and ice sheets.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+For my MMATH, I am developing numerical models to apply to glaciers and ice sheets. I recently adapted a surface energy balance model and applied it to Kaskawulsh and Nàłùdäy (Lowell) Glaciers in the Yukon. I'm now developing a supraglacial hydrology model for mountain glaciers and ice sheets to better understand meltwater inputs to the subglacial drainage system. This new model will simultaneously model flow through supraglacial streams and flow across the ice surface between channels, while allowing the stream network to dynamically evolve.
+
+I completed my BSc at the University of Waterloo in Co-operative Mathematical Physics with a focus on numerical modelling and data analysis through co-op work terms.
+
+Outside of research, I enjoy rock climbing, camping, hiking, and trail running. In the winter I'm probably on skis or thinking about skiing.

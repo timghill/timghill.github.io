@@ -12,3 +12,6 @@ Our paper, [Application of an improved surface energybalance model to two large 
 
 ![](/assets/images/JOG-20-0097-fig01.png)
 The study area for application of the energy balance model.
+
+~[](/assets/images/teaser_seb.png)
+Predicted surface melt from 27 July to 15 September 2018.

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Projects"
+title: "Surface energy balance modelling"
 permalink: /projects/seb/
 ---
 

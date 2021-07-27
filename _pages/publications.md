@@ -8,6 +8,8 @@ permalink: /publications.html
 
 Hill T, Dow CF, Bash EA, and Copland L. (2021) Application of an improved surface energy balance model to two large valley glaciers in the St. Elias Mountains, Yukon. *Journal of Glaciology*, *67*(262), 297-312. https://doi.org/10.1017/jog.2020.106
 
+Nassar R, Mastrogiacomo J-P, Bateman-Hemphill W, McCracken C, MacDonald C, **Hill T**, O'Dell C, Kiel M, and Crisp D. (2021) Advances in quantifying power plant CO2 emissions with OCO-2. *Remote Sensing of Environment*. 264(2021): 112579. https://doi.org/10.1016/j.rse.2021.112579
+
 Hill T, and Nassar R (2019) Pixel size and revisit rate requirements for monitoring power plant CO2 emissions from space. *Remote Sensing*. 11(13): 1608. https://doi.org/10.3390/rs11131608
 
 Nassar R, Hill T, McLinden C, Wunch D, Jones D, and Crisp D. (2017) Quantifying CO2 emissions from individual power plants from space. *Geophysical Research Letters*. 44(19): 10045-10053. https://doi.org/10.1002/2017GL074702

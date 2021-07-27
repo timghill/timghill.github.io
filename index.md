@@ -20,7 +20,7 @@ feature_row:
     url: "/projects/seb/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mountain.png
+  - image_path: /assets/images/sads_thumbnail.png
     alt: "Future project"
     title: "Subaerial Drainage System Model (SaDS)"
     excerpt: "Dynamic multi-component supraglacial hydrology model"

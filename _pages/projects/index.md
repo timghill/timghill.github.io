@@ -1,7 +1,7 @@
 ---
 permalink: /projects/
 header:
-  image: /assets/images/projects_head.png
+  image: /assets/images/projects_head.jpg
 feature_row:
   - image_path: /assets/images/teaser_palettes.png
     alt: "Palettes"
@@ -24,7 +24,6 @@ feature_row:
     url: "/projects/sads/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
-title: "Projects"
 ---
 
 {% include feature_row %}

@@ -13,7 +13,7 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/cv_thumb.jpg
+  - image_path: /assets/images/cv_thumb.png
     alt: "CV"
     title: "CV"
     excerpt: ""

@@ -24,9 +24,8 @@ feature_row:
     excerpt: "Dynamic multi-component supraglacial hydrology model"
     url: "/projects/sads/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"
+    title: Projects
 ---
 
 {% include feature_row %}
-
-Some new text

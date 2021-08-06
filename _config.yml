@@ -74,6 +74,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/timghill"
+    - label: "tghill@uwaterloo.ca"
+      icon: "far fa-envelope"
+      url: "mailto:tghill@uwaterloo.ca"
 
 footer:
   links:
@@ -85,6 +88,7 @@ footer:
       url: "https://github.com/timghill"
     - label: "tghill@uwaterloo.ca"
       icon: "far fa-envelope"
+      url: "mailto:tghill@uwaterloo.ca"
 
 defaults:
   # _posts

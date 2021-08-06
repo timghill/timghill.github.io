@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /projects/
 header:
   image: /assets/images/projects_head.jpg
@@ -27,3 +28,5 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+Some new text

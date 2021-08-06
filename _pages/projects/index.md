@@ -1,10 +1,7 @@
 ---
-layout: splash
 permalink: /projects/
-hidden: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/GypsumHillDesktop_downsized.png
+  image: /assets/images/projects_head.png
 feature_row:
   - image_path: /assets/images/teaser_palettes.png
     alt: "Palettes"

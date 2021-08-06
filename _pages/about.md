@@ -16,18 +16,17 @@ Outside of research, I enjoy rock climbing, camping, hiking, trail running, cano
 	<img src="/assets/images/gallery_01.jpg">
     <img src="/assets/images/gallery_02.jpg">
     <img src="/assets/images/gallery_03.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
+	<figcaption>White glacier and Lake Tahoe</figcaption>
 </figure>
 
 <figure class="half">
 	<img src="/assets/images/gallery_04.jpg">
     <img src="/assets/images/gallery_05.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
+	<figcaption>Crevasse rescue in Canmore, AB.</figcaption>
 </figure>
 
 <figure class="third">
 	<img src="/assets/images/gallery_06.jpg">
     <img src="/assets/images/gallery_07.jpg">
     <img src="/assets/images/gallery_08.jpg">
-	<figcaption>Caption describing these three images.</figcaption>
 </figure>

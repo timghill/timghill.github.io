@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  image: /assets/images/GypsumHillDesktop_downsized.png
+  image: /assets/images/index_head.png
 feature_row:
   - image_path: /assets/images/about_thumb.jpg
     alt: "About"

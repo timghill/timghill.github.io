@@ -27,7 +27,6 @@ feature_row:
     url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
-title: "Glacier hydrology modelling"
 ---
 
 {% include feature_row %}

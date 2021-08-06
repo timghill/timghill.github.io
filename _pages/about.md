@@ -19,7 +19,7 @@ Outside of research, I enjoy rock climbing, camping, hiking, trail running, cano
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
 
-<figure class="second">
+<figure class="half">
 	<img src="/assets/images/gallery_04.jpg">
     <img src="/assets/images/gallery_05.jpg">
 	<figcaption>Caption describing these three images.</figcaption>

@@ -2,7 +2,7 @@
 layout: splash
 permalink: /projects/
 header:
-  image: /assets/images/projects_head.jpg
+  overlay_image: /assets/images/projects_head.jpg
 feature_row:
   - image_path: /assets/images/teaser_palettes.png
     alt: "Palettes"

@@ -10,4 +10,24 @@ For my MMATH, I am developing numerical models to apply to glaciers and ice shee
 
 I completed my BSc at the University of Waterloo in Co-operative Mathematical Physics with a focus on numerical modelling and data analysis through co-op work terms.
 
-Outside of research, I enjoy rock climbing, camping, hiking, trail running, canoeing, and anything else I can try! 
+Outside of research, I enjoy rock climbing, camping, hiking, trail running, canoeing, and anything else I can try!
+
+<figure class="third">
+	<img src="/assets/images/gallery_01.jpg">
+    <img src="/assets/images/gallery_02.jpg">
+    <img src="/assets/images/gallery_03.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+
+<figure class="second">
+	<img src="/assets/images/gallery_04.jpg">
+    <img src="/assets/images/gallery_05.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
+
+<figure class="third">
+	<img src="/assets/images/gallery_06.jpg">
+    <img src="/assets/images/gallery_07.jpg">
+    <img src="/assets/images/gallery_08.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>

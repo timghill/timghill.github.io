@@ -18,52 +18,52 @@ Supervisor: Dr. Christine Dow
 2014 - 2019: **Bachelor of Science**, Honours Co-operative Mathematical Physics, University of Waterloo
 
 # Scholarships and awards
-2021/9 - 2024/9: Provost Prize of Distinction – 15,000 (CAD)\
+2021/9 - 2024/9: Provost Prize of Distinction\
 *Simon Fraser University*
 
-2021/9 - 2024/9: Canada Graduate Scholarship – Doctoral – 105,000 (CAD)\
+2021/9 - 2024/9: Canada Graduate Scholarship – Doctoral\
 *Natural Sciences and Engineering Research Council of Canada*
 
-2021/7: Outstanding Teaching Assistant Award – 500 (CAD)\
+2021/7: Outstanding Teaching Assistant Award\
 *University of Waterloo Department of Applied Mathematics*
 
-2021/2: Hydrology Section Poster Award (runner up) - 50 (CAD)\
+2021/2: Hydrology Section Poster Award (runner up)\
 *Canadian Geophysical Union Student Conference 2021*
 
-2020/9: Joseph Wai-Hung Liu Graduate Scholarship – 5,000 (CAD)
+2020/9: Joseph Wai-Hung Liu Graduate Scholarship\
 *University of Waterloo Faculty of Math*
 
-2020/9: President’s Graduate Scholarship – 5,000 (CAD)
+2020/9: President’s Graduate Scholarship\
 *University of Waterloo*
 
-2020/9: Ontario Graduate Scholarship – 15,000 (CAD)
+2020/9: Ontario Graduate Scholarship\
 *Government of Ontario*
 
-2019/9: President’s Graduate Scholarship – 5,000 (CAD)
+2019/9: President’s Graduate Scholarship\
 *University of Waterloo*
 
-2019/9: Canadian Graduate Scholarship – Masters – 17,500 (CAD)
+2019/9: Canadian Graduate Scholarship – Masters\
 *Natural Sciences and Engineering Research Council of Canada*
 
-2019/7: Northern Scientific Training Program – 2,295 (CAD)
+2019/7: Northern Scientific Training Program\
 *Polar Knowledge Canada*
 
-2018/9: Science Scholarship for Excellence – 500 (CAD)
+2018/9: Science Scholarship for Excellence\
 *University of Waterloo Faculty of Science*
 
-2018/5: Undergraduate Student Research Award – 4,500 (CAD)
+2018/5: Undergraduate Student Research Award\
 *Natural Sciences and Engineering Research Council of Canada*
 
-2018/1: Xerox work report award for outstanding written communication – 100 (CAD)
+2018/1: Xerox work report award for outstanding written communication\
 *University of Waterloo*
 
-2017/9: Undergraduate Student Research Award – 4,500 (CAD)
+2017/9: Undergraduate Student Research Award\
 *Natural Sciences and Engineering Research Council of Canada*
 
-2017/9: Research Experience Award – 1,500 (CAD)
+2017/9: Research Experience Award\
 *University of Waterloo*
 
-2014/9: President’s Scholarship of Distinction – 2,000 (CAD)
+2014/9: President’s Scholarship of Distinction\
 *University of Waterloo*
 
 # Research experience
@@ -84,13 +84,13 @@ Supervisor: Dr. Christine Dow
 # Publications
 **Hill, T.**, & Dow, C. F. (Submitted) Modeling the dynamics of supraglacial rivers and distributed meltwater flow with the Subaerial Drainage System (SaDS) model. *Journal of Geophysical Research: Earth Surface*.
 
-**Hill, T.**, Dow, C. F., Bash, E. A., and Copland, L. (2020) Application of an improved surface energy balance model to two large valley glaciers in the St. Elias Mountains, Yukon. *Journal of Glaciology*. 1-16 DOI: 10.1017/jog.2020.106
+**Hill, T.**, Dow, C. F., Bash, E. A., and Copland, L. (2021) Application of an improved surface energy balance model to two large valley glaciers in the St. Elias Mountains, Yukon. *Journal of Glaciology*. *67*(262), 297-312. [doi:10.1017/jog.2020.106](https://doi.org/10.1017/jog.2020.106)
 
-Nassar, R., Mastrogiacomo, J. P., Bateman-Hemphill, W., McCracken, C., MacDonald, C. G., **Hill, T.**, O'Dell, C., Kiel, M., & Crisp, D. (2021). Advances in quantifying power plant CO2 emissions with OCO-2. *Remote Sensing of Environment*, 264, 112579.
+Nassar, R., Mastrogiacomo, J. P., Bateman-Hemphill, W., McCracken, C., MacDonald, C. G., **Hill, T.**, O'Dell, C., Kiel, M., & Crisp, D. (2021). Advances in quantifying power plant CO2 emissions with OCO-2. *Remote Sensing of Environment*, 264, 112579. [doi:10.1016/j.rse.2021.112579](https://doi.org/10.1016/j.rse.2021.112579)
 
-**Hill, T.**, and Nassar, R. (2019) Pixel size and revisit rate requirements for monitoring power plant CO2 emissions from space. *Remote Sensing*. 11(13): 1608. DOI: 10.3390/rs11131608
+**Hill, T.**, and Nassar, R. (2019) Pixel size and revisit rate requirements for monitoring power plant CO2 emissions from space. *Remote Sensing*. 11(13): 1608. DOI: 10.3390/rs11131608. [doi:10.3390/rs11131608](https://doi.org/10.3390/rs11131608)
 
-Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2017) Quantifying CO2 emissions from individual power plants from space. *Geophysical Research Letters*. 44(19): 10045-10053. DOI: 10.1002/2017GL074702
+Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2017) Quantifying CO2 emissions from individual power plants from space. *Geophysical Research Letters*. 44(19): 10045-10053. [doi:10.1002/2017GL074702](https://doi.org/10.1002/2017GL074702)
 
 # Presentations
 

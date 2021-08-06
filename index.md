@@ -6,25 +6,25 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/GypsumHillDesktop_downsized.png
 feature_row:
-  - image_path: /assets/images/teaser_palettes.png
-    alt: "Palettes"
-    title: "Palettes"
-    excerpt: "Colourmaps for scientific visualization"
-    url: "/projects/palettes/"
+  - image_path: /assets/images/about_thumb.png
+    alt: "About"
+    title: "About"
+    excerpt: "Who I am and research interests"
+    url: "/about/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/CV_thumb.png
+    alt: "CV"
+    title: "CV"
+    excerpt: ""
+    url: "/CV/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/teaser_seb.png
-    alt: "SEB model"
-    title: "SEB model"
-    excerpt: "A surface energy balance model for high resolution melt modelling"
-    url: "/projects/seb/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/sads_thumbnail.png
-    alt: "Future project"
-    title: "Subaerial Drainage System Model (SaDS)"
-    excerpt: "Dynamic multi-component supraglacial hydrology model"
-    url: "/projects/sads/"
+    alt: "Projects"
+    title: "Projects"
+    excerpt: ""
+    url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 title: "Projects"

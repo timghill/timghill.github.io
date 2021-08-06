@@ -2,8 +2,6 @@
 permalink: /about/
 title: "About"
 layout: single
-header:
-  image: /assets/images/about_head.jpg
 ---
 
 I'm an MMATH candidate in Applied Math at the University of Waterloo. I'm generally interested in applying numerical models to physical systems, particularly glaciers and ice sheets.

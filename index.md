@@ -3,8 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/GypsumHillDesktop_downsized.png
+  image: /assets/images/GypsumHillDesktop_downsized.png
 feature_row:
   - image_path: /assets/images/about_thumb.jpg
     alt: "About"

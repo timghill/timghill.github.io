@@ -19,7 +19,7 @@ feature_row:
     url: "/CV/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/teaser_seb.png
+  - image_path: /assets/images/projects_thumb.png
     alt: "Projects"
     title: "Projects"
     excerpt: ""

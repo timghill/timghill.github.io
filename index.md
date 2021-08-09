@@ -15,14 +15,14 @@ feature_row:
   - image_path: /assets/images/cv_thumb.png
     alt: "CV"
     title: "CV"
-    excerpt: ""
+    excerpt: "Publications, scholarships, and more"
     url: "/CV/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/projects_thumb.png
     alt: "Projects"
     title: "Projects"
-    excerpt: ""
+    excerpt: "More about my work"
     url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      

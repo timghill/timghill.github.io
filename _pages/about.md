@@ -6,13 +6,15 @@ header:
   caption: Canmore Nordic Centre, AB
 ---
 
-I'm an MMATH candidate in Applied Math at the University of Waterloo. I'm generally interested in applying numerical models to physical systems, particularly glaciers and ice sheets.
-
 ![image-right](/assets/images/headshot_400px.jpg){: .align-right}
 
-For my MMATH, I am developing numerical models to apply to glaciers and ice sheets. I recently adapted a surface energy balance model and applied it to Kaskawulsh and Nàłùdäy (Lowell) Glaciers in the Yukon. I'm now developing a supraglacial hydrology model for mountain glaciers and ice sheets to better understand meltwater inputs to the subglacial drainage system. This new model will simultaneously model flow through supraglacial streams and flow across the ice surface between channels, while allowing the stream network to dynamically evolve.
+I'm an MMATH candidate in Applied Math at the University of Waterloo. I'm generally interested in applying numerical models to physical systems, particularly glaciers and ice sheets.
 
-I completed my BSc at the University of Waterloo in Co-operative Mathematical Physics with a focus on numerical modelling and data analysis through co-op work terms.
+My masters work developed numerical models for glacier melt rates and supraglacial meltwater transport. Glacier melt rates are important for water resources, downstream ecosystems, and mass balance and sea level rise, and so I used high resolution satellite data and improved physics to develop a more accurate spatially distributed [melt model](/projects/seb/). Meltwater also indirectly drives dynamic changes by controlling water inputs through moulins to the subglacial environment. To calculate and predict moulin inputs, I developed a supraglacial hydrology model called the [Subaerial Drainage System (SaDS) model](/projects/sads/). SaDS is a physically-based meltwater transport model that calculates hillslope (i.e. slow, distributed) flow and through a connected network of supraglacial channel. Since it is physics-based, the drainage network changes throughout the season in response to meltwater supply.
+
+By combining these new models with existing ones (e.g. ice dynamics with ISSM, subglacial hydrology with GlaDS), these models will be critical tools in future studies that predict quantitatively how climatic variability and changes drive ice dynamics.
+
+I completed my BSc at the University of Waterloo in Co-operative Mathematical Physics. Through co-op terms at Environment and Climate Change Canada, I was part of the team that provided the first-ever estimates of power plant CO<sub>2<\sub> emissions using satellite measurements.
 
 Outside of research, I enjoy rock climbing, camping, hiking, trail running, canoeing, and anything else I can try!
 

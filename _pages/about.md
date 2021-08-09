@@ -14,7 +14,7 @@ My masters work developed numerical models for glacier melt rates and supraglaci
 
 By combining these new models with existing ones (e.g. ice dynamics with ISSM, subglacial hydrology with GlaDS), these models will be critical tools in future studies that predict quantitatively how climatic variability and changes drive ice dynamics.
 
-I completed my BSc at the University of Waterloo in Co-operative Mathematical Physics. Through co-op terms at Environment and Climate Change Canada, I was part of the team that provided the first-ever estimates of power plant CO<sub>2<\sub> emissions using satellite measurements.
+I completed my BSc at the University of Waterloo in Co-operative Mathematical Physics. Through co-op terms at Environment and Climate Change Canada, I was part of the team that provided the first-ever estimates of power plant CO<sub>2</sub> emissions using satellite measurements.
 
 Outside of research, I enjoy rock climbing, camping, hiking, trail running, canoeing, and anything else I can try!
 

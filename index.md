@@ -1,7 +1,8 @@
 ---
 layout: splash
 permalink: /
-hidden: true
+title: "Tim Hill"
+tagline: "PhD student, SFU. Glacier melt, hydrology, and dynamics modelling"
 header:
   image: /assets/images/index_head.png
 feature_row:

@@ -1,6 +1,9 @@
 ---
 layout: single
 title: "CV"
+header:
+  overlay_image: "/assets/images/header_CV.jpg"
+  caption: "Mont Tremblant National Park, QC"
 permalink: /CV/
 ---
 

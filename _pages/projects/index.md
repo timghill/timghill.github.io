@@ -3,6 +3,7 @@ layout: splash
 permalink: /projects/
 header:
   image: /assets/images/projects_head.jpg
+  caption: The Crack, Killarney Provincial Park, ON
 feature_row:
   - image_path: /assets/images/teaser_palettes.png
     alt: "Palettes"

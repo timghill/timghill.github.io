@@ -5,6 +5,7 @@ title: "Tim Hill"
 tagline: "PhD student, SFU. Glacier melt, hydrology, and dynamics modelling"
 header:
   overlay_image: /assets/images/index_head.png
+  caption: White Glacier, Axel Heiberg Island, Nunavut
 feature_row:
   - image_path: /assets/images/about_thumb.jpg
     alt: "Headshot"

@@ -6,6 +6,10 @@ header:
   caption: Canmore Nordic Centre, AB
 ---
 
+<figure>
+        <a href="/assets/images/headshot_400px.jpg" rel="Headshot"><img src="/assets/images/headshot_400px.jpg" alt="Headshot" align="right"/></a>
+</figure>
+
 ![image-right](/assets/images/headshot_400px.jpg){: .align-right}
 
 I'm a PhD student at Simon Fraser University. I'm primarily interested in applying numerical models to physical and environmental ice sheets, particularly glaciers and ice sheets. I recently finished my Masters at the University of Waterloo.

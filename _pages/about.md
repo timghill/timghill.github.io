@@ -19,9 +19,9 @@ I completed my BSc at the University of Waterloo in Co-operative Mathematical Ph
 Outside of research, I enjoy rock climbing, camping, hiking, trail running, canoeing, and anything else I can try!
 
 <figure class="third">
-	<img src="/assets/images/gallery_01.jpg">
-    <img src="/assets/images/gallery_02.jpg">
-    <img src="/assets/images/gallery_03.jpg">
+	<a href="" rel="some text"><img src="/assets/images/gallery_01.jpg" alt="" /></a>
+        <img src="/assets/images/gallery_02.jpg">
+        <img src="/assets/images/gallery_03.jpg">
 	<figcaption>White glacier and Lake Tahoe</figcaption>
 </figure>
 

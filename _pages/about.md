@@ -19,20 +19,20 @@ I completed my BSc at the University of Waterloo in Co-operative Mathematical Ph
 Outside of research, I enjoy rock climbing, camping, hiking, trail running, canoeing, and anything else I can try!
 
 <figure class="third">
-	<a href="" rel="some text"><img src="/assets/images/gallery_01.jpg" alt="" /></a>
-        <img src="/assets/images/gallery_02.jpg">
-        <img src="/assets/images/gallery_03.jpg">
+	<a href="/assets/images/gallery_01.jpg" rel="White Glacier"><img src="/assets/images/gallery_01.jpg" alt="" /></a>
+        <a href="/assets/images/gallery_02.jpg" rel="White Glacier"><img src="/assets/images/gallery_02.jpg" alt="" /></a>
+        <a href="/assets/images/gallery_03.jpg" rel="Mount Rose Campground, Lake Tahoe"><img src="/assets/images/gallery_03.jpg" alt="" /></a>
 	<figcaption>White glacier and Lake Tahoe</figcaption>
 </figure>
 
 <figure class="half">
-	<img src="/assets/images/gallery_04.jpg">
-    <img src="/assets/images/gallery_05.jpg">
+        <a href="/assets/images/gallery_04.jpg" rel="Three Sisters, Canmore"><img src="/assets/images/gallery_04.jpg" alt="" /></a>
+        <a href="/assets/images/gallery_05.jpg" rel="Crevasse Rescue Training, Canmore"><img src="/assets/images/gallery_05.jpg" alt="" /></a>
 	<figcaption>Crevasse rescue in Canmore, AB.</figcaption>
 </figure>
 
 <figure class="third">
-	<img src="/assets/images/gallery_06.jpg">
-    <img src="/assets/images/gallery_07.jpg">
-    <img src="/assets/images/gallery_08.jpg">
+        <a href="/assets/images/gallery_06.jpg" rel="Lake Louise"><img src="/assets/images/gallery_06.jpg" alt="" /></a>
+        <a href="/assets/images/gallery_07.jpg" rel="Lake Huron"><img src="/assets/images/gallery_07.jpg" alt="" /></a>
+        <a href="/assets/images/gallery_08.jpg" rel="Winter portrait"><img src="/assets/images/gallery_08.jpg" alt="" /></a>
 </figure>

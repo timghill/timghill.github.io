@@ -8,7 +8,7 @@ header:
 
 ![image-right](/assets/images/headshot_400px.jpg){: .align-right}
 
-I'm a PhD student at Simon Fraser University. I'm primarily interested in applying numerical models to physical and environmental ice sheets, particularly glaciers and ice sheets. I recently finished my Masters at the University of Waterloo.
+I'm a PhD student at Simon Fraser University. I'm primarily interested in applying numerical models to physical and environmental systems, particularly glaciers and ice sheets. I recently finished my Masters at the University of Waterloo.
 
 My masters work developed numerical models for glacier melt rates and supraglacial meltwater transport. Glacier melt rates are important for water resources, downstream ecosystems, and mass balance and sea level rise, and so I used high resolution satellite data and improved physics to develop a more accurate spatially distributed [melt model](/projects/seb/). Meltwater also indirectly drives dynamic changes by controlling water inputs through moulins to the subglacial environment. To calculate and predict moulin inputs, I developed a supraglacial hydrology model called the [Subaerial Drainage System (SaDS) model](/projects/sads/). SaDS is a physically-based meltwater transport model that calculates hillslope (i.e. slow, distributed) flow and through a connected network of supraglacial channel. Since it is physics-based, the drainage network changes throughout the season in response to meltwater supply.
 
@@ -30,6 +30,8 @@ Outside of research, I enjoy rock climbing, camping, hiking, trail running, cano
         <a href="/assets/images/gallery_05.jpg" rel="Crevasse Rescue Training, Canmore"><img src="/assets/images/gallery_05.jpg" alt="" /></a>
 	<figcaption>Crevasse rescue in Canmore, AB.</figcaption>
 </figure>
+
+<figure><a href="/assets/images/gallery_09.jpg" rel=""><img src="/assets/images/gallery_09.jpg" alt="Snow covered cabin"/></a>
 
 <figure class="third">
         <a href="/assets/images/gallery_06.jpg" rel="Lake Louise"><img src="/assets/images/gallery_06.jpg" alt="" /></a>

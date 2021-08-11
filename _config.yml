@@ -67,7 +67,7 @@ kramdown:
 
 author:
   name   : "Tim Hill"
-  avatar : "/assets/images/bio-square.JPG"
+  avatar : "/assets/images/bio.JPG"
   bio    : "PhD student at SFU. Physical and statistical modelling of glaciers and ice sheets."
   links:
     - label: "Twitter"

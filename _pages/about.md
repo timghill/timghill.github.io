@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 header:
-  image: /assets/images/about_head_2.jpg
+  image: /assets/images/header_about.jpg
   caption: Canmore Nordic Centre, AB
 ---
 

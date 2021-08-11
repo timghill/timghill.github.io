@@ -12,7 +12,7 @@ feature_row:
     url: "/projects/palettes/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/teaser_projects_seb.png
+  - image_path: /assets/images/teaser_projects_seb.jpg
     alt: "SEB model"
     title: "SEB model"
     excerpt: "A surface energy balance model for high resolution melt modelling"

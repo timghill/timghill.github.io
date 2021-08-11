@@ -8,7 +8,7 @@ feature_row:
   - image_path: /assets/images/teaser_projects_palettes.png
     alt: "Palettes"
     title: "Palettes"
-    excerpt: "Colourmaps for scientific visualization"
+    excerpt: "Colourmaps for scientific visualization. Support for python and MATLAB"
     url: "/projects/palettes/"
     btn_class: "btn--primary"
     btn_label: "Learn more"

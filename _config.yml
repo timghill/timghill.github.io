@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   analyzing their outputs using Matlab and more.
 twitter_username: timghill
 github_username: timghill
-# minimal_mistakes_skin: air
+minimal_mistakes_skin: air
 search: false
 
 # Build settings

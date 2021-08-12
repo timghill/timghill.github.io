@@ -11,11 +11,11 @@ permalink: /CV/
 
 # Education
 2021- present: **Doctor of Philosophy**, Earth Sciences, Simon Fraser University\
-Thesis (tentative): *Statistical emulation of Greenland Ice Sheet hydrology and dynamics*
-Supervisor: Dr. Gwenn Flowers
+Thesis (tentative): *Statistical emulation of Greenland Ice Sheet hydrology and dynamics*\
+Supervisors: Dr. Gwenn Flowers and Dr. Derek Bingham
 
 2019 - 2021 : **Master of Mathematics**, Applied Mathematics, University of Waterloo\
-Thesis: *Mathematical modelling of supraglacial meltwater production and drainage*
+Thesis: *Mathematical modelling of supraglacial meltwater production and drainage*\
 Supervisor: Dr. Christine Dow
 
 2014 - 2019: **Bachelor of Science**, Honours Co-operative Mathematical Physics, University of Waterloo

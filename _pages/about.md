@@ -31,7 +31,10 @@ Outside of research, I enjoy rock climbing, camping, hiking, trail running, cano
 	<figcaption>Crevasse rescue in Canmore, AB.</figcaption>
 </figure>
 
-<figure><a href="/assets/images/gallery_09.jpg" rel=""><img src="/assets/images/gallery_09.jpg" alt="Snow covered cabin"/></a>
+<figure>
+  <a href="/assets/images/gallery_09.jpg" rel=""><img src="/assets/images/gallery_09.jpg" alt="Snow covered cabin"/></a>
+</figure>
+
 
 <figure class="third">
         <a href="/assets/images/gallery_06.jpg" rel="Lake Louise"><img src="/assets/images/gallery_06.jpg" alt="" /></a>

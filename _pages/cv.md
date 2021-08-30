@@ -15,7 +15,7 @@ Thesis (tentative): *Statistical emulation of Greenland Ice Sheet hydrology and 
 Supervisors: Dr. Gwenn Flowers and Dr. Derek Bingham
 
 2019 - 2021 : **Master of Mathematics**, Applied Mathematics, University of Waterloo\
-Thesis: *Mathematical modelling of supraglacial meltwater production and drainage*\
+Thesis: [*Mathematical modelling of supraglacial meltwater production and drainage*](http://hdl.handle.net/10012/17307)\
 Supervisor: Dr. Christine Dow
 
 2014 - 2019: **Bachelor of Science**, Honours Co-operative Mathematical Physics, University of Waterloo
@@ -85,6 +85,8 @@ Supervisor: Dr. Christine Dow
 *Math 227: Calculus 3 for Honours Physics*
 
 # Publications
+**Hill, T.** (2021). *Mathematical modelling of supraglacial meltwater production and drainage*. Masters thesis, UWSpace. [http://hdl.handle.net/10012/17307](http://hdl.handle.net/10012/17307).
+
 **Hill, T.**, & Dow, C. F. (Submitted) Modeling the dynamics of supraglacial rivers and distributed meltwater flow with the Subaerial Drainage System (SaDS) model. *Journal of Geophysical Research: Earth Surface*.
 
 **Hill, T.**, Dow, C. F., Bash, E. A., and Copland, L. (2021) Application of an improved surface energy balance model to two large valley glaciers in the St. Elias Mountains, Yukon. *Journal of Glaciology*. *67*(262), 297-312. [doi:10.1017/jog.2020.106](https://doi.org/10.1017/jog.2020.106)

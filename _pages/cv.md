@@ -87,8 +87,6 @@ Supervisor: Dr. Christine Dow
 # Publications
 **Hill, T.** (2021). *Mathematical modelling of supraglacial meltwater production and drainage*. Masters thesis, UWSpace. [http://hdl.handle.net/10012/17307](http://hdl.handle.net/10012/17307).
 
-**Hill, T.**, & Dow, C. F. (Submitted) Modeling the dynamics of supraglacial rivers and distributed meltwater flow with the Subaerial Drainage System (SaDS) model. *Journal of Geophysical Research: Earth Surface*.
-
 **Hill, T.**, Dow, C. F., Bash, E. A., and Copland, L. (2021) Application of an improved surface energy balance model to two large valley glaciers in the St. Elias Mountains, Yukon. *Journal of Glaciology*. *67*(262), 297-312. [doi:10.1017/jog.2020.106](https://doi.org/10.1017/jog.2020.106)
 
 Nassar, R., Mastrogiacomo, J. P., Bateman-Hemphill, W., McCracken, C., MacDonald, C. G., **Hill, T.**, O'Dell, C., Kiel, M., & Crisp, D. (2021). Advances in quantifying power plant CO2 emissions with OCO-2. *Remote Sensing of Environment*, 264, 112579. [doi:10.1016/j.rse.2021.112579](https://doi.org/10.1016/j.rse.2021.112579)
@@ -100,7 +98,6 @@ Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (
 # Presentations
 
 ## Primary author
-**Hill, T.**\*, and Dow, C. F. (2021) Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow on the Greenland Ice Sheet With the Subaerial Drainage System (SaDS) Model. ??? presentation at AGU Fall Meeting (2021), New Orleans, USA.
 
 **Hill, T.**\* (2021) Surface energy balance modelling in the St. Elias Mountains, Yukon. Queen's University. (Invited)
 
@@ -133,4 +130,5 @@ Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2
 
 # Community and volunteer activities
 2020/5 – present: President, University of Waterloo Outers Club
+
 2019/4 – 2020/4: Executive, University of Waterloo Outers Club

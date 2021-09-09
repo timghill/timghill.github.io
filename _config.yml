@@ -87,7 +87,7 @@ footer:
       url: "https://github.com/timghill"
     - label: "tim_hill_2@sfu.ca"
       icon: "far fa-envelope"
-      url: "mailto:tim_hill_2@uwaterloo.ca"
+      url: "mailto:tim_hill_2@sfu.ca"
 
 defaults:
   # _posts

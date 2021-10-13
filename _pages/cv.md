@@ -99,6 +99,8 @@ Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (
 
 ## Primary author
 
+**Hill, T.**\*, and Dow, C. F. (2021) Modelling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow. Oral presentation at Northwest Glaciologists Annual Meeting.
+
 **Hill, T.**\* (2021) Surface energy balance modelling in the St. Elias Mountains, Yukon. Queen's University. (Invited)
 
 **Hill, T.**\*, and Dow, C. F. (2021) Modelling glacier melt rates and surface hydrology at the basin scale. Poster presentation at CGU Student Conference 2021.

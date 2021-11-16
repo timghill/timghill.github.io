@@ -85,7 +85,9 @@ Supervisor: Dr. Christine Dow
 *Math 227: Calculus 3 for Honours Physics*
 
 # Publications
-**Hill, T.** (2021). *Mathematical modelling of supraglacial meltwater production and drainage*. Masters thesis, UWSpace. [http://hdl.handle.net/10012/17307](http://hdl.handle.net/10012/17307).
+**Hill, T.**, and Dow, C. F. (*In press*). Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow with the Subaerial Drainage System (SaDS) Model. *Journal of Geophysical Research: Earth Surface*
+
+**Hill, T.** (2021). *Mathematical modelling of supraglacial meltwater production and drainage*. Masters thesis, UWSpace. [http://hdl.handle.net/10012/17307](http://hdl.handle.net/10012/17307)
 
 **Hill, T.**, Dow, C. F., Bash, E. A., and Copland, L. (2021) Application of an improved surface energy balance model to two large valley glaciers in the St. Elias Mountains, Yukon. *Journal of Glaciology*. *67*(262), 297-312. [doi:10.1017/jog.2020.106](https://doi.org/10.1017/jog.2020.106)
 

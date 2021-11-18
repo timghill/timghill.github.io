@@ -85,7 +85,7 @@ Supervisor: Dr. Christine Dow
 *Math 227: Calculus 3 for Honours Physics*
 
 # Publications
-**Hill, T.**, and Dow, C. F. (*In press*). Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow with the Subaerial Drainage System (SaDS) Model. *Journal of Geophysical Research: Earth Surface*
+**Hill, T.**, and Dow, C. F. (2021). Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow with the Subaerial Drainage System (SaDS) Model. *Journal of Geophysical Research: Earth Surface*. 126, e2021JF006309. [https://doi.org/10.1029/2021JF006309](https://doi.org/10.1029/2021JF006309)
 
 **Hill, T.** (2021). *Mathematical modelling of supraglacial meltwater production and drainage*. Masters thesis, UWSpace. [http://hdl.handle.net/10012/17307](http://hdl.handle.net/10012/17307)
 

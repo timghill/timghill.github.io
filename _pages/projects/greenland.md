@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Subaerial Drainage System Model (SaDS)"
+title: "Interannual variability in Greenland supraglacial hydrology"
 permalink: /projects/greenland/
 ---
 

@@ -19,13 +19,19 @@ feature_row:
     url: "/projects/seb/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/teaser_projects_sads.png
-    alt: "Future project"
+  - image_path: /assets/images/teaser_projects_sads_model.png
+    alt: "Subaerial drainage system model"
     title: "Subaerial Drainage System Model (SaDS)"
     excerpt: "Dynamic multi-component supraglacial hydrology model"
     url: "/projects/sads/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/teaser_projects_greenland.png
+    alt: "Greenland hydrological modelling"
+    title: "Interannual variability in Greenland surface hydrology"
+    url: "/projects/greenland/"
+    btn_class: "btn--primary"
+    btn-label: "Learn more"
 ---
 
 {% include feature_row %}

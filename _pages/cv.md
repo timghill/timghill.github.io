@@ -85,6 +85,8 @@ Supervisor: Dr. Christine Dow
 *Math 227: Calculus 3 for Honours Physics*
 
 # Publications
+**Hill, T.**, and Dow, C. F. (Submitted). The Impact of Interannual Melt Supply on Greenland Ice Sheet Moulin Inputs.
+
 **Hill, T.**, and Dow, C. F. (2021). Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow with the Subaerial Drainage System (SaDS) Model. *Journal of Geophysical Research: Earth Surface*. 126, e2021JF006309. [https://doi.org/10.1029/2021JF006309](https://doi.org/10.1029/2021JF006309)
 
 **Hill, T.** (2021). *Mathematical modelling of supraglacial meltwater production and drainage*. Masters thesis, UWSpace. [http://hdl.handle.net/10012/17307](http://hdl.handle.net/10012/17307)
@@ -100,6 +102,7 @@ Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (
 # Presentations
 
 ## Primary author
+**Hill, T.**\*, and Dow, C. F. (2021) Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow on the Greenland Ice Sheet With the Subaerial Drainage System (SaDS) Model. Poster presentation at AGU Fall Meeting 2021.
 
 **Hill, T.**\*, and Dow, C. F. (2021) Modelling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow. Oral presentation at Northwest Glaciologists Annual Meeting.
 
@@ -125,7 +128,14 @@ Nassar, R.\*, **Hill, T.**, McCracken, C., MacDonald, C., Zheng, T., Kiel, M., N
 
 Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2017) Quantifying CO2 emissions from individual power plants using OCO-2 observations. Oral presentation at AGU Fall Meeting 2017, San Francisco, USA.
 
-# Credentials
+# Membership, credentials, and service
+
+**Reviewer**: Journal of Glaciology (2022)
+
+2019 - present: Member, International Glaciology Society
+
+2020 - present: Member, American Geophysical Union
+
 2020/2: Crevasse Rescue Training – Level 1, The University of Calgary
 
 2019/5: Standard First Aid and CPR-C
@@ -133,6 +143,6 @@ Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2
 2018/6: Certificate in High Performance Computing, Compute Canada
 
 # Community and volunteer activities
-2020/5 – present: President, University of Waterloo Outers Club
+2020/5 – 2021/9: President, University of Waterloo Outers Club
 
 2019/4 – 2020/4: Executive, University of Waterloo Outers Club

@@ -136,9 +136,9 @@ Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2
 
 2020 - present: Member, American Geophysical Union
 
-2020/2: Crevasse Rescue Training – Level 1, The University of Calgary
+2022/4: Crevasse Rescue Training – Canada West Mountain School
 
-2019/5: Standard First Aid and CPR-C
+2022/3: Wilderness First Aid (40 hour) and CPR-C
 
 2018/6: Certificate in High Performance Computing, Compute Canada
 

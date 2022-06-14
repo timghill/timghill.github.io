@@ -11,8 +11,7 @@ permalink: /CV/
 
 # Education
 2021- present: **Doctor of Philosophy**, Earth Sciences, Simon Fraser University\
-Thesis: *Gaussian process emulation of subglacial drainage for model calibration, uncertainty quantification and efficient coupled ice-sheet modelling
-*\
+Thesis: *Gaussian process emulation of subglacial drainage for model calibration, uncertainty quantification and efficient coupled ice-sheet modelling*\
 Supervisors: Dr. Gwenn Flowers and Dr. Derek Bingham
 
 2019 - 2021 : **Master of Mathematics**, Applied Mathematics, University of Waterloo\
@@ -22,11 +21,12 @@ Supervisor: Dr. Christine Dow
 2014 - 2019: **Bachelor of Science**, Honours Co-operative Mathematical Physics, University of Waterloo
 
 # Scholarships and awards
-2021/9 - 2024/9: Provost Prize of Distinction\
-*Simon Fraser University*
 
 2022/6: Graduate Research Paper Award\
 *University of Waterloo Department of Applied Mathematics*
+
+2021/9 - 2024/9: Provost Prize of Distinction\
+*Simon Fraser University*
 
 2021/9 - 2024/9: Canada Graduate Scholarship – Doctoral\
 *Natural Sciences and Engineering Research Council of Canada*

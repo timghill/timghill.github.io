@@ -11,7 +11,8 @@ permalink: /CV/
 
 # Education
 2021- present: **Doctor of Philosophy**, Earth Sciences, Simon Fraser University\
-Thesis (tentative): *Statistical emulation of Greenland Ice Sheet hydrology and dynamics*\
+Thesis: *Gaussian process emulation of subglacial drainage for model calibration, uncertainty quantification and efficient coupled ice-sheet modelling
+*\
 Supervisors: Dr. Gwenn Flowers and Dr. Derek Bingham
 
 2019 - 2021 : **Master of Mathematics**, Applied Mathematics, University of Waterloo\
@@ -23,6 +24,9 @@ Supervisor: Dr. Christine Dow
 # Scholarships and awards
 2021/9 - 2024/9: Provost Prize of Distinction\
 *Simon Fraser University*
+
+2022/6: Graduate Research Paper Award\
+*University of Waterloo Department of Applied Mathematics*
 
 2021/9 - 2024/9: Canada Graduate Scholarship – Doctoral\
 *Natural Sciences and Engineering Research Council of Canada*
@@ -68,6 +72,11 @@ Supervisor: Dr. Christine Dow
 
 2014/9: President’s Scholarship of Distinction\
 *University of Waterloo*
+
+# Field experience
+2022/5/2 - 2022/6/7: **Field Assistant**, SEARCH<sup>Arctic</sup> project, Devon Ice Cap, Nunavut
+
+2019/7: **Field Assistant**, Expedition Fiord, Axel Heiberg Island, Nunavut
 
 # Research experience
 2019/5 - 2019/9: **Research Assistant**, Climate Research Division, Environment and Climate Change Canada
@@ -119,6 +128,8 @@ Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (
 **Hill, T.**\*, Stastna, M., and Lamb, K. (2018) Ice dynamics with the MITgcm. Oral presentation at Applied Mathematics Summer Student Conference, Waterloo, Canada.
 
 ## Contributing author
+
+Siu, K.\*, Dow, C. F., Morlighem, M., McCormack, F., and **Hill, T.** (2022) Modelling Subglacial Hydrology under Future Climate Scenarios in Wilkes Subglacial Basin, Antarctica. Oral presentation at EGU General Assembly 2022, Vienna, Austra, EGU22-424.
 
 Mastrogiacomo, J.-P.\*, Nassar, R., **Hill, T.**, Pavlick, R., Nelson, R., O'Dell, C., Eldering, A., and Crisp, D. (2021) Quantifying CO2 Emissions from Smaller Point Sources by Using Multiple OCO-3 Images. Poster presentation at IWGGMS 17, online, 14-17 June 2021.
 

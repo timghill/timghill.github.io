@@ -3,7 +3,7 @@ layout: single
 title: "CV"
 header:
   image: "/assets/images/header_CV.jpg"
-  caption: "Mont Tremblant National Park, QC"
+  caption: "Devon Ice Cap Summit"
 permalink: /CV/
 ---
 

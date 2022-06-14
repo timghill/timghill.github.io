@@ -3,7 +3,7 @@ layout: splash
 permalink: /projects/
 header:
   image: /assets/images/header_projects.jpg
-  caption: The Crack, Killarney Provincial Park, ON
+  caption: Devon Ice Cap camp
 feature_row:
   - image_path: /assets/images/teaser_projects_palettes.png
     alt: "Palettes"

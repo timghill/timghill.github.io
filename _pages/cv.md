@@ -74,6 +74,9 @@ Supervisor: Dr. Christine Dow
 *University of Waterloo*
 
 # Field experience
+
+2022/7/16 - 2022/7/27: Kaskawulsh Glacier, Yukon
+
 2022/5/2 - 2022/6/7: **Field Assistant**, SEARCH<sup>Arctic</sup> project, Devon Ice Cap, Nunavut
 
 2019/7: **Field Assistant**, Expedition Fiord, Axel Heiberg Island, Nunavut
@@ -94,7 +97,6 @@ Supervisor: Dr. Christine Dow
 *Math 227: Calculus 3 for Honours Physics*
 
 # Publications
-**Hill, T.**, and Dow, C. F. (Submitted). The Impact of Interannual Melt Supply on Greenland Ice Sheet Moulin Inputs.
 
 **Hill, T.**, and Dow, C. F. (2021). Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow with the Subaerial Drainage System (SaDS) Model. *Journal of Geophysical Research: Earth Surface*. 126, e2021JF006309. [https://doi.org/10.1029/2021JF006309](https://doi.org/10.1029/2021JF006309)
 

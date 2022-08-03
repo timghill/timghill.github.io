@@ -3,7 +3,7 @@ layout: splash
 permalink: /projects/
 header:
   image: /assets/images/header_projects.jpg
-  caption: Devon Ice Cap camp
+  caption: Vulcan group, Yukon
 feature_row:
   - image_path: /assets/images/teaser_projects_palettes.png
     alt: "Palettes"

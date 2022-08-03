@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 header:
   image: /assets/images/header_about.jpg
-  caption: Canmore Nordic Centre, AB
+  caption: Kaskawulsh Glacier, Yukon
 ---
 
 ![image-right](/assets/images/headshot_400px.jpg){: .align-right}

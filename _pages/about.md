@@ -26,8 +26,8 @@ Outside of research, I enjoy rock climbing, camping, hiking, trail running, cano
 </figure>
 
 <figure class="half">
-        <a href="/assets/images/gallery_004.jpg" rel="Three Sisters, Canmore"><img src="/assets/images/gallery_04.jpg" alt="" /></a>
-        <a href="/assets/images/gallery_005.jpg" rel="Crevasse Rescue Training, Canmore"><img src="/assets/images/gallery_05.jpg" alt="" /></a>
+        <a href="/assets/images/gallery_004.jpg" rel="Three Sisters, Canmore"><img src="/assets/images/gallery_004.jpg" alt="" /></a>
+        <a href="/assets/images/gallery_005.jpg" rel="Crevasse Rescue Training, Canmore"><img src="/assets/images/gallery_005.jpg" alt="" /></a>
 	<figcaption>Crevasse rescue training in Canmore, AB.</figcaption>
 </figure>
 
@@ -40,4 +40,20 @@ Outside of research, I enjoy rock climbing, camping, hiking, trail running, cano
         <a href="/assets/images/gallery_007.jpg" rel="Lake Louise"><img src="/assets/images/gallery_007.jpg" alt="" /></a>
         <a href="/assets/images/gallery_008.jpg" rel="Lake Huron"><img src="/assets/images/gallery_008.jpg" alt="" /></a>
         <a href="/assets/images/gallery_009.jpg" rel="Winter portrait"><img src="/assets/images/gallery_009.jpg" alt="" /></a>
+	<figcaption>Devon Ice Cap, May 2022</figcaption>
 </figure>
+
+<figure class="half">
+        <a href="/assets/images/gallery_010.jpg" rel="Kaskawulsh Glacier, Yukon"><img src="/assets/images/gallery_010.jpg" alt="" /></a>
+        <a href="/assets/images/gallery_011.jpg" rel="Kaskawulsh Glacier, Yukon"><img src="/assets/images/gallery_011.jpg" alt="" /></a>
+</figure>
+
+<figure class="third">
+        <a href="/assets/images/gallery_012.jpg" rel="Kaskawulsh Glacier, Yukon"><img src="/assets/images/gallery_012.jpg" alt="" /></a>
+        <a href="/assets/images/gallery_013.jpg" rel="Kaskawulsh Glacier, Yukon"><img src="/assets/images/gallery_013.jpg" alt="" /></a>
+        <a href="/assets/images/gallery_014.jpg" rel="Winter portrait"><img src="/assets/images/gallery_014.jpg" alt="" /></a>
+        <figcaption>Kaskawulsh Glacier, July 2022</figcaption>
+</figure>
+
+
+

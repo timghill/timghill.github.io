@@ -17,7 +17,7 @@ title: "Tim Hill"
 subtitle: "PhD student, SFU"
 name: &name "Tim Hill"
 email: tim_hill_2@sfu.ca
-description: "Tim Hill: PhD student at SFU Earth Sciences"
+description: "Tim Hill: PhD candidate, SFU Earth Sciences"
 twitter_username: timghill
 github_username: timghill
 # minimal_mistakes_skin: air
@@ -65,7 +65,7 @@ kramdown:
 author:
   name   : "Tim Hill"
   avatar : "/assets/images/bio.JPG"
-  bio    : "PhD student at SFU. Physical and statistical modelling of glaciers and ice sheets."
+  bio    : "PhD candidate, SFU. Physical and statistical modelling of glaciers and ice sheets."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

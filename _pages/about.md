@@ -19,25 +19,25 @@ I completed my BSc at the University of Waterloo in Co-operative Mathematical Ph
 Outside of research, I enjoy rock climbing, camping, hiking, trail running, canoeing, and anything else I can try!
 
 <figure class="third">
-	<a href="/assets/images/gallery_01.jpg" rel="White Glacier"><img src="/assets/images/gallery_01.jpg" alt="" /></a>
-        <a href="/assets/images/gallery_02.jpg" rel="White Glacier"><img src="/assets/images/gallery_02.jpg" alt="" /></a>
-        <a href="/assets/images/gallery_03.jpg" rel="Mount Rose Campground, Lake Tahoe"><img src="/assets/images/gallery_03.jpg" alt="" /></a>
-	<figcaption>White glacier and Lake Tahoe</figcaption>
+	<a href="/assets/images/gallery_01.jpg" rel="White Glacier"><img src="/assets/images/gallery_001.jpg" alt="" /></a>
+        <a href="/assets/images/gallery_02.jpg" rel="White Glacier"><img src="/assets/images/gallery_002.jpg" alt="" /></a>
+        <a href="/assets/images/gallery_03.jpg" rel="White Glacier"><img src="/assets/images/gallery_003.jpg" alt="" /></a>
+	<figcaption>White Glacier, July 2019</figcaption>
 </figure>
 
 <figure class="half">
-        <a href="/assets/images/gallery_04.jpg" rel="Three Sisters, Canmore"><img src="/assets/images/gallery_04.jpg" alt="" /></a>
-        <a href="/assets/images/gallery_05.jpg" rel="Crevasse Rescue Training, Canmore"><img src="/assets/images/gallery_05.jpg" alt="" /></a>
-	<figcaption>Crevasse rescue in Canmore, AB.</figcaption>
+        <a href="/assets/images/gallery_004.jpg" rel="Three Sisters, Canmore"><img src="/assets/images/gallery_04.jpg" alt="" /></a>
+        <a href="/assets/images/gallery_005.jpg" rel="Crevasse Rescue Training, Canmore"><img src="/assets/images/gallery_05.jpg" alt="" /></a>
+	<figcaption>Crevasse rescue training in Canmore, AB.</figcaption>
 </figure>
 
 <figure>
-  <a href="/assets/images/gallery_09.jpg" rel=""><img src="/assets/images/gallery_09.jpg" alt="Snow covered cabin"/></a>
+  <a href="/assets/images/gallery_006.jpg" rel=""><img src="/assets/images/gallery_006.jpg" alt="Pulling a sled on Devon Ice Cap"/></a>
 </figure>
 
 
 <figure class="third">
-        <a href="/assets/images/gallery_06.jpg" rel="Lake Louise"><img src="/assets/images/gallery_06.jpg" alt="" /></a>
-        <a href="/assets/images/gallery_07.jpg" rel="Lake Huron"><img src="/assets/images/gallery_07.jpg" alt="" /></a>
-        <a href="/assets/images/gallery_08.jpg" rel="Winter portrait"><img src="/assets/images/gallery_08.jpg" alt="" /></a>
+        <a href="/assets/images/gallery_007.jpg" rel="Lake Louise"><img src="/assets/images/gallery_007.jpg" alt="" /></a>
+        <a href="/assets/images/gallery_008.jpg" rel="Lake Huron"><img src="/assets/images/gallery_008.jpg" alt="" /></a>
+        <a href="/assets/images/gallery_009.jpg" rel="Winter portrait"><img src="/assets/images/gallery_009.jpg" alt="" /></a>
 </figure>

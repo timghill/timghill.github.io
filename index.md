@@ -14,7 +14,7 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/teaser_index_CV.png
+  - image_path: /assets/images/teaser_index_cv.jpg
     alt: "Screenshot of Journal of Glaciology Energy Balance paper"
     title: "CV"
     excerpt: "Publications, scholarships, and more"

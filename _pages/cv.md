@@ -77,9 +77,9 @@ Supervisor: Dr. Christine Dow
 
 2022/7/16 - 2022/7/27: Kaskawulsh Glacier, Yukon
 
-2022/5/2 - 2022/6/7: **Field Assistant**, SEARCH<sup>Arctic</sup> project, Devon Ice Cap, Nunavut
+2022/5/2 - 2022/6/7: SEARCH<sup>Arctic</sup> project, Devon Ice Cap, Nunavut
 
-2019/7: **Field Assistant**, Expedition Fiord, Axel Heiberg Island, Nunavut
+2019/7: Expedition Fiord, Axel Heiberg Island, Nunavut
 
 # Research experience
 2019/5 - 2019/9: **Research Assistant**, Climate Research Division, Environment and Climate Change Canada
@@ -113,6 +113,9 @@ Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (
 # Presentations
 
 ## Primary author
+
+**Hill, T.**\*, Flowers, G., and Bingham, D. (2022) Gaussian process emulation of subglacial drainage. Oral presentation at Annual Meeting of the Northwest Glaciologists 2022.
+
 **Hill, T.**\*, and Dow, C. F. (2021) Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow on the Greenland Ice Sheet With the Subaerial Drainage System (SaDS) Model. Poster presentation at AGU Fall Meeting 2021.
 
 **Hill, T.**\*, and Dow, C. F. (2021) Modelling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow. Oral presentation at Northwest Glaciologists Annual Meeting.

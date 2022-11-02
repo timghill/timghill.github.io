@@ -82,6 +82,7 @@ Supervisor: Dr. Christine Dow
 2019/7: Expedition Fiord, Axel Heiberg Island, Nunavut
 
 # Research experience
+
 2019/5 - 2019/9: **Research Assistant**, Climate Research Division, Environment and Climate Change Canada
 
 2019/7: **Field Assistant**, McGill Arctic Research Station, Nunavut
@@ -93,10 +94,13 @@ Supervisor: Dr. Christine Dow
 2016/9 - 2017/4: **Research Assistant**, Climate Research Division, Environment and Climate Change Canada
 
 # Teaching
+
 2020/9 - 2020/12: **Teaching Assistant**, University of Waterloo\
 *Math 227: Calculus 3 for Honours Physics*
 
 # Publications
+
+**Hill, T.** and Dow, C. F. (2022). The impact of interannual melt supply on Greenland Ice Sheet moulin inputs. *The Cryosphere Discussions*. Preprint. [https://doi.org/10.5194/tc-2022-180](https://doi.org/10.5194/tc-2022-180)
 
 **Hill, T.**, and Dow, C. F. (2021). Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow with the Subaerial Drainage System (SaDS) Model. *Journal of Geophysical Research: Earth Surface*. 126, e2021JF006309. [https://doi.org/10.1029/2021JF006309](https://doi.org/10.1029/2021JF006309)
 

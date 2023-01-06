@@ -138,6 +138,8 @@ Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (
 
 ## Contributing author
 
+Killingbeck, S.\*, Killingbeck, J., **Hill, T.**, Main, B., Brossier, E., Unsworth, M., Dow, C., Dubnick, A., Criscitiello, A., and Rutishauser, A. (2022) Combined Geophysical Techniques Constrain the Devon Ice Cap, Canadian High Arctic, Subglacial Environment. Oral presentation at AGU Fall Meeting 2022, Chicago, USA, C42B-05.
+
 Siu, K.\*, Dow, C. F., Morlighem, M., McCormack, F., and **Hill, T.** (2022) Modelling Subglacial Hydrology under Future Climate Scenarios in Wilkes Subglacial Basin, Antarctica. Oral presentation at EGU General Assembly 2022, Vienna, Austra, EGU22-424.
 
 Mastrogiacomo, J.-P.\*, Nassar, R., **Hill, T.**, Pavlick, R., Nelson, R., O'Dell, C., Eldering, A., and Crisp, D. (2021) Quantifying CO2 Emissions from Smaller Point Sources by Using Multiple OCO-3 Images. Poster presentation at IWGGMS 17, online, 14-17 June 2021.

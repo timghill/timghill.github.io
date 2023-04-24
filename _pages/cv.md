@@ -95,6 +95,9 @@ Supervisor: Dr. Christine Dow
 
 # Teaching
 
+2023/1 - 2023/4: **Accessible Learning Lab Aid**, Center for Accessible Learning, Simon Fraser University\
+*EASC 314: Principles of Glaciology*
+
 2020/9 - 2020/12: **Teaching Assistant**, University of Waterloo\
 *Math 227: Calculus 3 for Honours Physics*
 
@@ -117,6 +120,7 @@ Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (
 # Presentations
 
 ## Primary author
+**Hill, T.**\*, Flowers, G., Bingham, D., and Hoffman, M. (2023) Reconciling velocity observations and modelled subglacial winter water pressure. Oral presentation at SFU Earth Science Research Day.
 
 **Hill, T.**\*, Flowers, G., and Bingham, D. (2022) Gaussian process emulation of subglacial drainage. Oral presentation at Annual Meeting of the Northwest Glaciologists 2022.
 
@@ -152,13 +156,15 @@ Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2
 
 # Membership, credentials, and service
 
-**Reviewer**: Journal of Glaciology (2022)
+**Reviewer**: Journal of Glaciology (2022), Geophysical Research Letters (2023)
 
 2019 - present: Member, International Glaciology Society
 
 2020 - present: Member, American Geophysical Union
 
-2022/4: Crevasse Rescue Training – Canada West Mountain School
+2023/1: Avalanche Skills Training Level 1, Canada West Mountain School
+
+2022/4: Crevasse Rescue Training, Canada West Mountain School
 
 2022/3: Wilderness First Aid (40 hour) and CPR-C
 

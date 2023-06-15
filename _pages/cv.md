@@ -103,7 +103,7 @@ Supervisor: Dr. Christine Dow
 
 # Publications
 
-**Hill, T.** and Dow, C. F. (2022). The impact of interannual melt supply on Greenland Ice Sheet moulin inputs. *The Cryosphere Discussions*. Preprint. [https://doi.org/10.5194/tc-2022-180](https://doi.org/10.5194/tc-2022-180)
+**Hill, T.** and Dow, C. F. (2023).  The impact of surface melt rate and catchment characteristics on Greenland Ice Sheet moulin inputs. *The Cryosphere Discussions* (Accepted) [https://doi.org/10.5194/tc-2022-180](https://doi.org/10.5194/tc-2022-180)
 
 **Hill, T.**, and Dow, C. F. (2021). Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow with the Subaerial Drainage System (SaDS) Model. *Journal of Geophysical Research: Earth Surface*. 126, e2021JF006309. [https://doi.org/10.1029/2021JF006309](https://doi.org/10.1029/2021JF006309)
 

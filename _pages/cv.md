@@ -20,6 +20,63 @@ Supervisor: Dr. Christine Dow
 
 2014 - 2019: **Bachelor of Science**, Honours Co-operative Mathematical Physics, University of Waterloo
 
+# Publications
+
+**Hill, T.**, Flowers, G. E., Hoffman, M. J., Bingham, D. and Werder, M. A. (2023). Improved representation of laminar and turbulent sheet flow in subglcial drainage models. *Earth ArXiv*. [https://doi.org/10.31223/X5F96T](https://doi.org/10.31223/X5F96T).
+
+**Hill, T.** and Dow, C. F. (2023). The impact of surface melt rate and catchment characteristics on Greenland Ice Sheet moulin inputs. *The Cryosphere* [https://doi.org/10.5194/tc-17-2607-2023](https://doi.org/10.5194/tc-17-2607-2023)
+
+**Hill, T.**, and Dow, C. F. (2021). Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow with the Subaerial Drainage System (SaDS) Model. *Journal of Geophysical Research: Earth Surface*. 126, e2021JF006309. [https://doi.org/10.1029/2021JF006309](https://doi.org/10.1029/2021JF006309)
+
+**Hill, T.** (2021). *Mathematical modelling of supraglacial meltwater production and drainage*. Masters thesis, UWSpace. [http://hdl.handle.net/10012/17307](http://hdl.handle.net/10012/17307)
+
+**Hill, T.**, Dow, C. F., Bash, E. A., and Copland, L. (2021) Application of an improved surface energy balance model to two large valley glaciers in the St. Elias Mountains, Yukon. *Journal of Glaciology*. *67*(262), 297-312. [doi:10.1017/jog.2020.106](https://doi.org/10.1017/jog.2020.106)
+
+Nassar, R., Mastrogiacomo, J. P., Bateman-Hemphill, W., McCracken, C., MacDonald, C. G., **Hill, T.**, O'Dell, C., Kiel, M., & Crisp, D. (2021). Advances in quantifying power plant CO2 emissions with OCO-2. *Remote Sensing of Environment*, 264, 112579. [doi:10.1016/j.rse.2021.112579](https://doi.org/10.1016/j.rse.2021.112579)
+
+**Hill, T.**, and Nassar, R. (2019) Pixel size and revisit rate requirements for monitoring power plant CO2 emissions from space. *Remote Sensing*. 11(13): 1608. DOI: 10.3390/rs11131608. [doi:10.3390/rs11131608](https://doi.org/10.3390/rs11131608)
+
+Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2017) Quantifying CO2 emissions from individual power plants from space. *Geophysical Research Letters*. 44(19): 10045-10053. [doi:10.1002/2017GL074702](https://doi.org/10.1002/2017GL074702)
+
+# Presentations
+
+## Primary author
+
+**Hill, T.**\*, Flowers, G., Bingham, D., and Hoffman, M. (2023) Reconciling velocity observations and modelled subglacial winter water pressure. Oral presentation at SFU Earth Science Research Day.
+
+**Hill, T.**\*, Flowers, G., and Bingham, D. (2022) Gaussian process emulation of subglacial drainage. Oral presentation at Annual Meeting of the Northwest Glaciologists 2022.
+
+**Hill, T.**\*, and Dow, C. F. (2021) Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow on the Greenland Ice Sheet With the Subaerial Drainage System (SaDS) Model. Poster presentation at AGU Fall Meeting 2021.
+
+**Hill, T.**\*, and Dow, C. F. (2021) Modelling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow. Oral presentation at Northwest Glaciologists Annual Meeting.
+
+**Hill, T.**\* (2021) Surface energy balance modelling in the St. Elias Mountains, Yukon. Queen's University. (Invited)
+
+**Hill, T.**\*, and Dow, C. F. (2021) Modelling glacier melt rates and surface hydrology at the basin scale. Poster presentation at CGU Student Conference 2021.
+
+**Hill, T.**\*, and Dow, C. F. (2020) Modelling the Seasonal Evolution of Supraglacial Hydrology with Natural Stream Development and Dynamic Topography. Oral presentation at AGU Fall Meeting 2020.
+
+**Hill, T.**\*, and Dow, C. F. (2020) Glacier energy balance modelling: Methods and tests on Lowell Glacier. Oral presentation at Glacier Ocean Iceberg (GO-Ice) workshop, Canmore, Canada.
+
+**Hill, T.**\*, and Nassar, R. (2019) Improving power plant CO2 emission estimates from satellites: pixel size, shape, and image averaging. Poster presentation at Carbon Assimilation Workshop, Toronto, Canada.
+
+**Hill, T.**\*, Stastna, M., and Lamb, K. (2018) Ice dynamics with the MITgcm. Oral presentation at Applied Mathematics Summer Student Conference, Waterloo, Canada.
+
+## Contributing author
+
+Killingbeck, S.\*, Killingbeck, J., **Hill, T.**, Main, B., Brossier, E., Unsworth, M., Dow, C., Dubnick, A., Criscitiello, A., and Rutishauser, A. (2022) Combined Geophysical Techniques Constrain the Devon Ice Cap, Canadian High Arctic, Subglacial Environment. Oral presentation at AGU Fall Meeting 2022, Chicago, USA, C42B-05.
+
+Siu, K.\*, Dow, C. F., Morlighem, M., McCormack, F., and **Hill, T.** (2022) Modelling Subglacial Hydrology under Future Climate Scenarios in Wilkes Subglacial Basin, Antarctica. Oral presentation at EGU General Assembly 2022, Vienna, Austra, EGU22-424.
+
+Mastrogiacomo, J.-P.\*, Nassar, R., **Hill, T.**, Pavlick, R., Nelson, R., O'Dell, C., Eldering, A., and Crisp, D. (2021) Quantifying CO2 Emissions from Smaller Point Sources by Using Multiple OCO-3 Images. Poster presentation at IWGGMS 17, online, 14-17 June 2021.
+
+Nassar, R.\*, Mastrogiacomo, J.-P., Bateman-Hemphill, W., McCracken. C., MacDonald, C., **Hill, T.**, O'Dell, C., Nelson, R., Kiel, M., Pavlick, R., Eldering, A., and Crisp, D. (2021) Space-based detection of CO2 emission reductions due to COVID-19 at Europe's largest fossil fuel power plant and implications for CO2 emission monitoring, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-8979, https://doi.org/10.5194/egusphere-egu21-8979.
+
+Nassar, R.\*, **Hill, T.**, McCracken, C., MacDonald, C., Zheng, T., Kiel, M., Nelson, R., Crisp, D. (2019) Quantifying localized anthropogenic CO2 sources from space: Current capabilities and requirements for a policy-relevant monitoring system. Oral presentation at AGU Fall Meeting 2019, San Francisco, USA. https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/493320
+
+Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2017) Quantifying CO2 emissions from individual power plants using OCO-2 observations. Oral presentation at AGU Fall Meeting 2017, San Francisco, USA.
+
+
 # Scholarships and awards
 
 2022/6: Graduate Research Paper Award\
@@ -75,6 +132,8 @@ Supervisor: Dr. Christine Dow
 
 # Field experience
 
+2023/6: Kaskawulsh Glacier, Yukon
+
 2022/7/16 - 2022/7/27: Kaskawulsh Glacier, Yukon
 
 2022/5/2 - 2022/6/7: SEARCH<sup>Arctic</sup> project, Devon Ice Cap, Nunavut
@@ -101,60 +160,6 @@ Supervisor: Dr. Christine Dow
 2020/9 - 2020/12: **Teaching Assistant**, University of Waterloo\
 *Math 227: Calculus 3 for Honours Physics*
 
-# Publications
-
-
-**Hill, T.** and Dow, C. F. (2023). The impact of surface melt rate and catchment characteristics on Greenland Ice Sheet moulin inputs. *The Cryosphere* [https://doi.org/10.5194/tc-17-2607-2023](https://doi.org/10.5194/tc-17-2607-2023)
-
-**Hill, T.**, and Dow, C. F. (2021). Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow with the Subaerial Drainage System (SaDS) Model. *Journal of Geophysical Research: Earth Surface*. 126, e2021JF006309. [https://doi.org/10.1029/2021JF006309](https://doi.org/10.1029/2021JF006309)
-
-**Hill, T.** (2021). *Mathematical modelling of supraglacial meltwater production and drainage*. Masters thesis, UWSpace. [http://hdl.handle.net/10012/17307](http://hdl.handle.net/10012/17307)
-
-**Hill, T.**, Dow, C. F., Bash, E. A., and Copland, L. (2021) Application of an improved surface energy balance model to two large valley glaciers in the St. Elias Mountains, Yukon. *Journal of Glaciology*. *67*(262), 297-312. [doi:10.1017/jog.2020.106](https://doi.org/10.1017/jog.2020.106)
-
-Nassar, R., Mastrogiacomo, J. P., Bateman-Hemphill, W., McCracken, C., MacDonald, C. G., **Hill, T.**, O'Dell, C., Kiel, M., & Crisp, D. (2021). Advances in quantifying power plant CO2 emissions with OCO-2. *Remote Sensing of Environment*, 264, 112579. [doi:10.1016/j.rse.2021.112579](https://doi.org/10.1016/j.rse.2021.112579)
-
-**Hill, T.**, and Nassar, R. (2019) Pixel size and revisit rate requirements for monitoring power plant CO2 emissions from space. *Remote Sensing*. 11(13): 1608. DOI: 10.3390/rs11131608. [doi:10.3390/rs11131608](https://doi.org/10.3390/rs11131608)
-
-Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2017) Quantifying CO2 emissions from individual power plants from space. *Geophysical Research Letters*. 44(19): 10045-10053. [doi:10.1002/2017GL074702](https://doi.org/10.1002/2017GL074702)
-
-# Presentations
-
-## Primary author
-**Hill, T.**\*, Flowers, G., Bingham, D., and Hoffman, M. (2023) Reconciling velocity observations and modelled subglacial winter water pressure. Oral presentation at SFU Earth Science Research Day.
-
-**Hill, T.**\*, Flowers, G., and Bingham, D. (2022) Gaussian process emulation of subglacial drainage. Oral presentation at Annual Meeting of the Northwest Glaciologists 2022.
-
-**Hill, T.**\*, and Dow, C. F. (2021) Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow on the Greenland Ice Sheet With the Subaerial Drainage System (SaDS) Model. Poster presentation at AGU Fall Meeting 2021.
-
-**Hill, T.**\*, and Dow, C. F. (2021) Modelling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow. Oral presentation at Northwest Glaciologists Annual Meeting.
-
-**Hill, T.**\* (2021) Surface energy balance modelling in the St. Elias Mountains, Yukon. Queen's University. (Invited)
-
-**Hill, T.**\*, and Dow, C. F. (2021) Modelling glacier melt rates and surface hydrology at the basin scale. Poster presentation at CGU Student Conference 2021.
-
-**Hill, T.**\*, and Dow, C. F. (2020) Modelling the Seasonal Evolution of Supraglacial Hydrology with Natural Stream Development and Dynamic Topography. Oral presentation at AGU Fall Meeting 2020.
-
-**Hill, T.**\*, and Dow, C. F. (2020) Glacier energy balance modelling: Methods and tests on Lowell Glacier. Oral presentation at Glacier Ocean Iceberg (GO-Ice) workshop, Canmore, Canada.
-
-**Hill, T.**\*, and Nassar, R. (2019) Improving power plant CO2 emission estimates from satellites: pixel size, shape, and image averaging. Poster presentation at Carbon Assimilation Workshop, Toronto, Canada.
-
-**Hill, T.**\*, Stastna, M., and Lamb, K. (2018) Ice dynamics with the MITgcm. Oral presentation at Applied Mathematics Summer Student Conference, Waterloo, Canada.
-
-## Contributing author
-
-Killingbeck, S.\*, Killingbeck, J., **Hill, T.**, Main, B., Brossier, E., Unsworth, M., Dow, C., Dubnick, A., Criscitiello, A., and Rutishauser, A. (2022) Combined Geophysical Techniques Constrain the Devon Ice Cap, Canadian High Arctic, Subglacial Environment. Oral presentation at AGU Fall Meeting 2022, Chicago, USA, C42B-05.
-
-Siu, K.\*, Dow, C. F., Morlighem, M., McCormack, F., and **Hill, T.** (2022) Modelling Subglacial Hydrology under Future Climate Scenarios in Wilkes Subglacial Basin, Antarctica. Oral presentation at EGU General Assembly 2022, Vienna, Austra, EGU22-424.
-
-Mastrogiacomo, J.-P.\*, Nassar, R., **Hill, T.**, Pavlick, R., Nelson, R., O'Dell, C., Eldering, A., and Crisp, D. (2021) Quantifying CO2 Emissions from Smaller Point Sources by Using Multiple OCO-3 Images. Poster presentation at IWGGMS 17, online, 14-17 June 2021.
-
-Nassar, R.\*, Mastrogiacomo, J.-P., Bateman-Hemphill, W., McCracken. C., MacDonald, C., **Hill, T.**, O'Dell, C., Nelson, R., Kiel, M., Pavlick, R., Eldering, A., and Crisp, D. (2021) Space-based detection of CO2 emission reductions due to COVID-19 at Europe's largest fossil fuel power plant and implications for CO2 emission monitoring, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-8979, https://doi.org/10.5194/egusphere-egu21-8979.
-
-Nassar, R.\*, **Hill, T.**, McCracken, C., MacDonald, C., Zheng, T., Kiel, M., Nelson, R., Crisp, D. (2019) Quantifying localized anthropogenic CO2 sources from space: Current capabilities and requirements for a policy-relevant monitoring system. Oral presentation at AGU Fall Meeting 2019, San Francisco, USA. https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/493320
-
-Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2017) Quantifying CO2 emissions from individual power plants using OCO-2 observations. Oral presentation at AGU Fall Meeting 2017, San Francisco, USA.
-
 # Membership, credentials, and service
 
 **Reviewer**: Journal of Glaciology (2022), Geophysical Research Letters (2023)
@@ -172,6 +177,7 @@ Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2
 2018/6: Certificate in High Performance Computing, Compute Canada
 
 # Community and volunteer activities
+
 2020/5 – 2021/9: President, University of Waterloo Outers Club
 
 2019/4 – 2020/4: Executive, University of Waterloo Outers Club

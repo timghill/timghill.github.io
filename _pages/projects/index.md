@@ -32,7 +32,7 @@ feature_row:
     url: "/projects/greenland/"
     btn_class: "btn--primary"
     btn-label: "Learn more"
-  - image_path: /assets/images/teaser_laminar_turbulent.png
+  - image_path: /assets/images/teaser_laminar_turbulent.jpg
     alt: "Laminar and turbulent subglacial water flow"
     title: "Laminar and turbulent subglacial water flow"
     url: "/projects/laminar_turbulent/"

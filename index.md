@@ -21,7 +21,7 @@ feature_row:
     url: "/CV/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/teaser_index_projects.png
+  - image_path: /assets/images/teaser_index_projects.jpg
     alt: "Energy balance model results"
     title: "Projects"
     excerpt: "More about my work"

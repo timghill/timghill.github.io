@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 title: "Tim Hill"
-tagline: "PhD student, Simon Fraser University. Glacier melt, hydrology, and dynamics modelling"
+tagline: "PhD Candidate, Simon Fraser University. Glacier hydrology, dynamics, and statistical emulation"
 header:
   overlay_image: /assets/images/header_index.png
   caption: White Glacier, Axel Heiberg Island, Nunavut

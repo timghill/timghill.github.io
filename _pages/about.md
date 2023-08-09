@@ -8,15 +8,18 @@ header:
 
 ![image-right](/assets/images/headshot_400px.jpg){: .align-right}
 
-I'm a PhD student at Simon Fraser University. I'm primarily interested in applying numerical models to physical and environmental systems, particularly glaciers and ice sheets. I recently finished my Masters at the University of Waterloo.
+I'm a PhD candidate at Simon Fraser University. I'm interested in applying numerical models to physical and environmental systems, especially glaciers and ice sheets.
 
-My masters work developed numerical models for glacier melt rates and supraglacial meltwater transport. Glacier melt rates are important for water resources, downstream ecosystems, and mass balance and sea level rise, and so I used high resolution satellite data and improved physics to develop a more accurate spatially distributed [melt model](/projects/seb/). Meltwater also indirectly drives dynamic changes by controlling water inputs through moulins to the subglacial environment. To calculate and predict moulin inputs, I developed a supraglacial hydrology model called the [Subaerial Drainage System (SaDS) model](/projects/sads/). SaDS is a physically-based meltwater transport model that calculates hillslope (i.e. slow, distributed) flow and through a connected network of supraglacial channel. Since it is physics-based, the drainage network changes throughout the season in response to meltwater supply.
+My current research focuses on modelling subglacial drainage. In particular, I'm interested in using statistical techniques to address uncertainty in contemporary models. The outputs of this research will improve the representation of basal friction in ice-sheet models, enabling more robust ice-sheet model projections.
 
-By combining these new models with existing ones (e.g. ice dynamics with ISSM, subglacial hydrology with GlaDS), these models will be critical tools in future studies that predict quantitatively how climatic variability and changes drive ice dynamics.
+For my Masters from the University of Waterloo in Applied Math, I developed numerical models for [glacier surface melt rates](/projects/seb/) and [supraglacial meltwater transport](/projects/sads/). These models contribute to our understanding of water resources, the impact of freshwater discharge on downstream ecosystems, glacier mass balance, and the connection between warming and glacier dynamics.
 
 I completed my BSc at the University of Waterloo in Co-operative Mathematical Physics. Through co-op terms at Environment and Climate Change Canada, I was part of the team that provided the first-ever estimates of power plant CO<sub>2</sub> emissions using satellite measurements.
 
 Outside of research, I enjoy rock climbing, camping, hiking, trail running, canoeing, and anything else I can try!
+
+I'm always happy to chat over a (virtual) coffee, just send me an email at [tim_hill_2@sfu.ca](mailto:tim_hill_2@sfu.ca).
+
 
 <figure class="third">
 	<a href="/assets/images/gallery_01.jpg" rel="White Glacier"><img src="/assets/images/gallery_001.jpg" alt="" /></a>

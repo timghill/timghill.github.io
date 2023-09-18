@@ -50,7 +50,7 @@ Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (
 
 **Hill, T.**\*, and Dow, C. F. (2021) Modelling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow. Oral presentation at Northwest Glaciologists Annual Meeting.
 
-**Hill, T.**\* (2021) Surface energy balance modelling in the St. Elias Mountains, Yukon. Queen's University. (Invited)
+<!-- **Hill, T.**\* (2021) Surface energy balance modelling in the St. Elias Mountains, Yukon. Queen's University. (Invited) -->
 
 **Hill, T.**\*, and Dow, C. F. (2021) Modelling glacier melt rates and surface hydrology at the basin scale. Poster presentation at CGU Student Conference 2021.
 
@@ -58,9 +58,9 @@ Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (
 
 **Hill, T.**\*, and Dow, C. F. (2020) Glacier energy balance modelling: Methods and tests on Lowell Glacier. Oral presentation at Glacier Ocean Iceberg (GO-Ice) workshop, Canmore, Canada.
 
-**Hill, T.**\*, and Nassar, R. (2019) Improving power plant CO2 emission estimates from satellites: pixel size, shape, and image averaging. Poster presentation at Carbon Assimilation Workshop, Toronto, Canada.
+<!-- **Hill, T.**\*, and Nassar, R. (2019) Improving power plant CO2 emission estimates from satellites: pixel size, shape, and image averaging. Poster presentation at Carbon Assimilation Workshop, Toronto, Canada. -->
 
-**Hill, T.**\*, Stastna, M., and Lamb, K. (2018) Ice dynamics with the MITgcm. Oral presentation at Applied Mathematics Summer Student Conference, Waterloo, Canada.
+<!-- **Hill, T.**\*, Stastna, M., and Lamb, K. (2018) Ice dynamics with the MITgcm. Oral presentation at Applied Mathematics Summer Student Conference, Waterloo, Canada. -->
 
 ## Contributing author
 
@@ -68,19 +68,28 @@ Killingbeck, S.\*, Killingbeck, J., **Hill, T.**, Main, B., Brossier, E., Unswor
 
 Siu, K.\*, Dow, C. F., Morlighem, M., McCormack, F., and **Hill, T.** (2022) Modelling Subglacial Hydrology under Future Climate Scenarios in Wilkes Subglacial Basin, Antarctica. Oral presentation at EGU General Assembly 2022, Vienna, Austra, EGU22-424.
 
-Mastrogiacomo, J.-P.\*, Nassar, R., **Hill, T.**, Pavlick, R., Nelson, R., O'Dell, C., Eldering, A., and Crisp, D. (2021) Quantifying CO2 Emissions from Smaller Point Sources by Using Multiple OCO-3 Images. Poster presentation at IWGGMS 17, online, 14-17 June 2021.
+<!-- Mastrogiacomo, J.-P.\*, Nassar, R., **Hill, T.**, Pavlick, R., Nelson, R., O'Dell, C., Eldering, A., and Crisp, D. (2021) Quantifying CO2 Emissions from Smaller Point Sources by Using Multiple OCO-3 Images. Poster presentation at IWGGMS 17, online, 14-17 June 2021. -->
 
 Nassar, R.\*, Mastrogiacomo, J.-P., Bateman-Hemphill, W., McCracken. C., MacDonald, C., **Hill, T.**, O'Dell, C., Nelson, R., Kiel, M., Pavlick, R., Eldering, A., and Crisp, D. (2021) Space-based detection of CO2 emission reductions due to COVID-19 at Europe's largest fossil fuel power plant and implications for CO2 emission monitoring, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-8979, https://doi.org/10.5194/egusphere-egu21-8979.
 
-Nassar, R.\*, **Hill, T.**, McCracken, C., MacDonald, C., Zheng, T., Kiel, M., Nelson, R., Crisp, D. (2019) Quantifying localized anthropogenic CO2 sources from space: Current capabilities and requirements for a policy-relevant monitoring system. Oral presentation at AGU Fall Meeting 2019, San Francisco, USA. https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/493320
+<!-- Nassar, R.\*, **Hill, T.**, McCracken, C., MacDonald, C., Zheng, T., Kiel, M., Nelson, R., Crisp, D. (2019) Quantifying localized anthropogenic CO2 sources from space: Current capabilities and requirements for a policy-relevant monitoring system. Oral presentation at AGU Fall Meeting 2019, San Francisco, USA. https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/493320 -->
 
 Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2017) Quantifying CO2 emissions from individual power plants using OCO-2 observations. Oral presentation at AGU Fall Meeting 2017, San Francisco, USA.
 
 
 # Scholarships and awards
 
+2023/9 - 2025/9: PhD Research Scholarship\
+*Simon Fraser University*
+
+2023/5: Northern Scientific Training Program\
+*Polar Knowledge Canada*
+
 2022/6: Graduate Research Paper Award\
 *University of Waterloo Department of Applied Mathematics*
+
+2022/5: Northern Scientific Training Program\
+*Polar Knowledge Canada*
 
 2021/9 - 2024/9: Provost Prize of Distinction\
 *Simon Fraser University*
@@ -90,9 +99,6 @@ Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2
 
 2021/7: Outstanding Teaching Assistant Award\
 *University of Waterloo Department of Applied Mathematics*
-
-2021/2: Hydrology Section Poster Award (runner up)\
-*Canadian Geophysical Union Student Conference 2021*
 
 2020/9: Joseph Wai-Hung Liu Graduate Scholarship\
 *University of Waterloo Faculty of Math*
@@ -132,6 +138,8 @@ Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2
 
 # Field experience
 
+2023/8: Alpine Hazards of Deglaciation, Joffre Lakes basin
+
 2023/6: Kaskawulsh Glacier, Yukon
 
 2022/7/16 - 2022/7/27: Kaskawulsh Glacier, Yukon
@@ -141,6 +149,8 @@ Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2
 2019/7: Expedition Fiord, Axel Heiberg Island, Nunavut
 
 # Research experience
+
+2023/8: **Field Assistant**, Geological Survey of Canada
 
 2019/5 - 2019/9: **Research Assistant**, Climate Research Division, Environment and Climate Change Canada
 
@@ -160,6 +170,11 @@ Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2
 2020/9 - 2020/12: **Teaching Assistant**, University of Waterloo\
 *Math 227: Calculus 3 for Honours Physics*
 
+# Mentorship
+
+2023/4 - 2023/8: **Supervisor**, Undergraduate Research Assistant\
+*Subglacial hydrology modelling with the Ice-sheet and Sea-level System Model*
+
 # Membership, credentials, and service
 
 **Reviewer**: Journal of Glaciology (2022), Geophysical Research Letters (2023)
@@ -168,15 +183,17 @@ Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2
 
 2020 - present: Member, American Geophysical Union
 
-2023/1: Avalanche Skills Training Level 1, Canada West Mountain School
+2023/5: Crevasse Rescue Training, Canada West Mountain School
 
-2022/4: Crevasse Rescue Training, Canada West Mountain School
+2023/1: Avalanche Skills Training Level 1, Canada West Mountain School
 
 2022/3: Wilderness First Aid (40 hour) and CPR-C
 
 2018/6: Certificate in High Performance Computing, Compute Canada
 
-# Community and volunteer activities
+# Community and volunteer activities and service
+
+2023/9 - 2024-9: **Graduate Student Society Representative**, Department of Earth Sciences
 
 2020/5 – 2021/9: President, University of Waterloo Outers Club
 

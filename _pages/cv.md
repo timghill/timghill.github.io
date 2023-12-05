@@ -177,7 +177,7 @@ Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2
 
 # Membership, credentials, and service
 
-**Reviewer**: Journal of Glaciology (2022), Geophysical Research Letters (2023)
+**Reviewer**: Journal of Glaciology (2022), Geophysical Research Letters (2023), The Cryosphere (2023)
 
 2019 - present: Member, International Glaciology Society
 
@@ -193,7 +193,9 @@ Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2
 
 # Community and volunteer activities and service
 
-2023/9 - 2024-9: **Graduate Student Society Representative**, Department of Earth Sciences
+2023/9 - 2023/9: **Administration and Finance Coordinator**, APECS Canada
+
+2023/9 - 2024/9: **Graduate Student Society Representative**, Department of Earth Sciences
 
 2020/5 – 2021/9: President, University of Waterloo Outers Club
 

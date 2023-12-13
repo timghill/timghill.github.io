@@ -22,7 +22,7 @@ Supervisor: Dr. Christine Dow
 
 # Publications
 
-**Hill, T.**, Flowers, G. E., Hoffman, M. J., Bingham, D. and Werder, M. A. (2023). Improved representation of laminar and turbulent sheet flow in subglcial drainage models. *Earth ArXiv*. [https://doi.org/10.31223/X5F96T](https://doi.org/10.31223/X5F96T).
+**Hill, T.**, Flowers, G. E., Hoffman, M. J., Bingham, D. and Werder, M. A. (2023). Improved representation of laminar and turbulent sheet flow in subglcial drainage models. *Journal of Glaciology, Accepted Manuscript*. [https://doi.org/10.1017/jog.2023.103](https://doi.org/10.1017/jog.2023.103)
 
 **Hill, T.** and Dow, C. F. (2023). The impact of surface melt rate and catchment characteristics on Greenland Ice Sheet moulin inputs. *The Cryosphere* [https://doi.org/10.5194/tc-17-2607-2023](https://doi.org/10.5194/tc-17-2607-2023)
 
@@ -41,6 +41,9 @@ Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (
 # Presentations
 
 ## Primary author
+**Hill, T.**\*, Flowers, G., Hoffman, M., Bingham D., and Weder M. (2023) Improved representation of laminar and turbulent sheet flow in subglacial drainage models. Oral presentation at the AGU Fall Meeting 2023.
+
+**Hill, T.**\*, Flowers, G., Hoffman, M., Bingham D., and Weder M. (2023) Laminar and turbulent subglacial water flow. Oral presentation at the Annual Meeting of the Northwest Glaciologists 2023.
 
 **Hill, T.**\*, Flowers, G., Bingham, D., and Hoffman, M. (2023) Reconciling velocity observations and modelled subglacial winter water pressure. Oral presentation at SFU Earth Science Research Day.
 

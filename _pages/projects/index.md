@@ -38,6 +38,12 @@ feature_row:
     url: "/projects/laminar_turbulent/"
     btn_class: "btn--primary"
     btn-label: "Learn more"
+  - image_path: /assets/images/teaser_emulation.jpg
+    alt: "Statistical emulation of subglacial drainage"
+    title: "Statistical emulation of subglacial drainage"
+    url: "/projects/subglacial_emulator/"
+    btn_class: "btn--primary"
+    btn-label: "Learn more"
 ---
 
 {% include feature_row %}

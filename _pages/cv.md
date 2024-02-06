@@ -7,7 +7,7 @@ header:
 permalink: /CV/
 ---
 
-[Download CV as a PDF](/assets/hill_tim_CV.pdf)
+<!-- [Download CV as a PDF](/assets/hill_tim_CV.pdf) -->
 
 # Education
 2021- present: **Doctor of Philosophy**, Earth Sciences, Simon Fraser University\
@@ -20,9 +20,132 @@ Supervisor: Dr. Christine Dow
 
 2014 - 2019: **Bachelor of Science**, Honours Co-operative Mathematical Physics, University of Waterloo
 
+
+# Scholarships and awards
+
+2023/9 - 2025/9: PhD Research Scholarship, 
+*Simon Fraser University*
+
+2023/5: Northern Scientific Training Program, 
+*Polar Knowledge Canada*
+
+2022/6: Graduate Research Paper Award, 
+*University of Waterloo Department of Applied Mathematics*
+
+2022/5: Northern Scientific Training Program, 
+*Polar Knowledge Canada*
+
+2021/9 - 2024/9: Provost Prize of Distinction, 
+*Simon Fraser University*
+
+2021/9 - 2024/9: Canada Graduate Scholarship – Doctoral, 
+*Natural Sciences and Engineering Research Council of Canada*
+
+2021/7: Outstanding Teaching Assistant Award, 
+*University of Waterloo Department of Applied Mathematics*
+
+2020/9: Joseph Wai-Hung Liu Graduate Scholarship, 
+*University of Waterloo Faculty of Math*
+
+2020/9: President’s Graduate Scholarship, 
+*University of Waterloo*
+
+2020/9: Ontario Graduate Scholarship, 
+*Government of Ontario*
+
+2019/9: President’s Graduate Scholarship, 
+*University of Waterloo*
+
+2019/9: Canadian Graduate Scholarship – Masters, 
+*Natural Sciences and Engineering Research Council of Canada*
+
+2019/7: Northern Scientific Training Program, 
+*Polar Knowledge Canada*
+
+<!-- 2018/9: Science Scholarship for Excellence, 
+*University of Waterloo Faculty of Science*
+
+2018/5: Undergraduate Student Research Award, 
+*Natural Sciences and Engineering Research Council of Canada*
+
+2018/1: Xerox work report award for outstanding written communication, 
+*University of Waterloo*
+
+2017/9: Undergraduate Student Research Award, 
+*Natural Sciences and Engineering Research Council of Canada*
+
+2017/9: Research Experience Award, 
+*University of Waterloo*
+
+2014/9: President’s Scholarship of Distinction, 
+*University of Waterloo* -->
+
+# Field experience
+
+2023/8: Alpine Hazards of Deglaciation, Joffre Lakes basin
+
+2023/6: Kaskawulsh Glacier, Yukon
+
+2022/7/16 - 2022/7/27: Kaskawulsh Glacier, Yukon
+
+2022/5/2 - 2022/6/7: SEARCH<sup>Arctic</sup> project, Devon Ice Cap, Nunavut
+
+2019/7: Expedition Fiord, Axel Heiberg Island, Nunavut
+
+# Research experience
+
+2023/8: **Field Assistant**, Geological Survey of Canada
+
+2019/5 - 2019/9: **Research Assistant**, Climate Research Division, Environment and Climate Change Canada
+
+2019/7: **Field Assistant**, McGill Arctic Research Station, Nunavut
+
+2018/5 - 2018/8: **Undergraduate Research Assistant**, Department of Applied Mathematics, University of Waterloo
+
+2017/9 - 2017/12: **Undergraduate Research Assistant**, Institute for Quantum Computing, University of Waterloo
+
+2016/9 - 2017/4: **Research Assistant**, Climate Research Division, Environment and Climate Change Canada
+
+# Teaching
+
+2023/1 - 2023/4: **Accessible Learning Lab Aid**, Center for Accessible Learning, Simon Fraser University\
+*EASC 314: Principles of Glaciology*
+
+2020/9 - 2020/12: **Teaching Assistant**, University of Waterloo\
+*Math 227: Calculus 3 for Honours Physics*
+
+# Mentorship
+
+2023/4 - 2023/8: **Supervisor**, Undergraduate Research Assistant\
+*Subglacial hydrology modelling with the Ice-sheet and Sea-level System Model*
+
+# Membership, credentials, and service
+
+**Reviewer**: JGR: Earth Surface (2024), The Cryosphere (2023), Geophysical Research Letters (2023), Journal of Glaciology (2022)
+
+2019 - present: Member, International Glaciology Society, AGU
+
+2023/5, 2022/4: Crevasse Rescue Training, Canada West Mountain School
+
+2023/1: Avalanche Skills Training Level 1, Canada West Mountain School
+
+2022/3: Wilderness First Aid (40 hour) and CPR-C
+
+2018/6: Certificate in High Performance Computing, Compute Canada
+
+# Community and volunteer activities and service
+
+2023/9 - 2024/9: **Administration and Finance Coordinator**, APECS Canada
+
+2023/9 - 2024/9: **Graduate Student Society Representative**, Department of Earth Sciences
+
+2020/5 – 2021/9: President, University of Waterloo Outers Club
+
+2019/4 – 2020/4: Executive, University of Waterloo Outers Club
+
 # Publications
 
-**Hill, T.**, Flowers, G. E., Hoffman, M. J., Bingham, D. and Werder, M. A. (2023). Improved representation of laminar and turbulent sheet flow in subglcial drainage models. *Journal of Glaciology, Accepted Manuscript*. [https://doi.org/10.1017/jog.2023.103](https://doi.org/10.1017/jog.2023.103)
+**Hill, T.**, Flowers, G. E., Hoffman, M. J., Bingham, D. and Werder, M. A. (2023). Improved representation of laminar and turbulent sheet flow in subglcial drainage models. *Journal of Glaciology*, 1-14. [https://doi.org/10.1017/jog.2023.103](https://doi.org/10.1017/jog.2023.103)
 
 **Hill, T.** and Dow, C. F. (2023). The impact of surface melt rate and catchment characteristics on Greenland Ice Sheet moulin inputs. *The Cryosphere* [https://doi.org/10.5194/tc-17-2607-2023](https://doi.org/10.5194/tc-17-2607-2023)
 
@@ -78,128 +201,3 @@ Nassar, R.\*, Mastrogiacomo, J.-P., Bateman-Hemphill, W., McCracken. C., MacDona
 <!-- Nassar, R.\*, **Hill, T.**, McCracken, C., MacDonald, C., Zheng, T., Kiel, M., Nelson, R., Crisp, D. (2019) Quantifying localized anthropogenic CO2 sources from space: Current capabilities and requirements for a policy-relevant monitoring system. Oral presentation at AGU Fall Meeting 2019, San Francisco, USA. https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/493320 -->
 
 Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2017) Quantifying CO2 emissions from individual power plants using OCO-2 observations. Oral presentation at AGU Fall Meeting 2017, San Francisco, USA.
-
-
-# Scholarships and awards
-
-2023/9 - 2025/9: PhD Research Scholarship\
-*Simon Fraser University*
-
-2023/5: Northern Scientific Training Program\
-*Polar Knowledge Canada*
-
-2022/6: Graduate Research Paper Award\
-*University of Waterloo Department of Applied Mathematics*
-
-2022/5: Northern Scientific Training Program\
-*Polar Knowledge Canada*
-
-2021/9 - 2024/9: Provost Prize of Distinction\
-*Simon Fraser University*
-
-2021/9 - 2024/9: Canada Graduate Scholarship – Doctoral\
-*Natural Sciences and Engineering Research Council of Canada*
-
-2021/7: Outstanding Teaching Assistant Award\
-*University of Waterloo Department of Applied Mathematics*
-
-2020/9: Joseph Wai-Hung Liu Graduate Scholarship\
-*University of Waterloo Faculty of Math*
-
-2020/9: President’s Graduate Scholarship\
-*University of Waterloo*
-
-2020/9: Ontario Graduate Scholarship\
-*Government of Ontario*
-
-2019/9: President’s Graduate Scholarship\
-*University of Waterloo*
-
-2019/9: Canadian Graduate Scholarship – Masters\
-*Natural Sciences and Engineering Research Council of Canada*
-
-2019/7: Northern Scientific Training Program\
-*Polar Knowledge Canada*
-
-2018/9: Science Scholarship for Excellence\
-*University of Waterloo Faculty of Science*
-
-2018/5: Undergraduate Student Research Award\
-*Natural Sciences and Engineering Research Council of Canada*
-
-2018/1: Xerox work report award for outstanding written communication\
-*University of Waterloo*
-
-2017/9: Undergraduate Student Research Award\
-*Natural Sciences and Engineering Research Council of Canada*
-
-2017/9: Research Experience Award\
-*University of Waterloo*
-
-2014/9: President’s Scholarship of Distinction\
-*University of Waterloo*
-
-# Field experience
-
-2023/8: Alpine Hazards of Deglaciation, Joffre Lakes basin
-
-2023/6: Kaskawulsh Glacier, Yukon
-
-2022/7/16 - 2022/7/27: Kaskawulsh Glacier, Yukon
-
-2022/5/2 - 2022/6/7: SEARCH<sup>Arctic</sup> project, Devon Ice Cap, Nunavut
-
-2019/7: Expedition Fiord, Axel Heiberg Island, Nunavut
-
-# Research experience
-
-2023/8: **Field Assistant**, Geological Survey of Canada
-
-2019/5 - 2019/9: **Research Assistant**, Climate Research Division, Environment and Climate Change Canada
-
-2019/7: **Field Assistant**, McGill Arctic Research Station, Nunavut
-
-2018/5 - 2018/8: **Undergraduate Research Assistant**, Department of Applied Mathematics, University of Waterloo
-
-2017/9 - 2017/12: **Undergraduate Research Assistant**, Institute for Quantum Computing, University of Waterloo
-
-2016/9 - 2017/4: **Research Assistant**, Climate Research Division, Environment and Climate Change Canada
-
-# Teaching
-
-2023/1 - 2023/4: **Accessible Learning Lab Aid**, Center for Accessible Learning, Simon Fraser University\
-*EASC 314: Principles of Glaciology*
-
-2020/9 - 2020/12: **Teaching Assistant**, University of Waterloo\
-*Math 227: Calculus 3 for Honours Physics*
-
-# Mentorship
-
-2023/4 - 2023/8: **Supervisor**, Undergraduate Research Assistant\
-*Subglacial hydrology modelling with the Ice-sheet and Sea-level System Model*
-
-# Membership, credentials, and service
-
-**Reviewer**: Journal of Glaciology (2022), Geophysical Research Letters (2023), The Cryosphere (2023)
-
-2019 - present: Member, International Glaciology Society
-
-2020 - present: Member, American Geophysical Union
-
-2023/5: Crevasse Rescue Training, Canada West Mountain School
-
-2023/1: Avalanche Skills Training Level 1, Canada West Mountain School
-
-2022/3: Wilderness First Aid (40 hour) and CPR-C
-
-2018/6: Certificate in High Performance Computing, Compute Canada
-
-# Community and volunteer activities and service
-
-2023/9 - 2023/9: **Administration and Finance Coordinator**, APECS Canada
-
-2023/9 - 2024/9: **Graduate Student Society Representative**, Department of Earth Sciences
-
-2020/5 – 2021/9: President, University of Waterloo Outers Club
-
-2019/4 – 2020/4: Executive, University of Waterloo Outers Club

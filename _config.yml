@@ -67,9 +67,6 @@ author:
   avatar : "/assets/images/bio.JPG"
   bio    : "PhD candidate, SFU. Physical and statistical modelling of glaciers and ice sheets."
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/TimGHill"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/timghill"
@@ -79,9 +76,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/TimGHill"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/timghill"

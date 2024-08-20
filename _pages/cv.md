@@ -23,6 +23,9 @@ Supervisor: Dr. Christine Dow
 
 # Scholarships and awards
 
+2024/4: Outstanding Reviewer Award,
+*The European Geosciences Union -- The Cryosphere*
+
 2023/9 - 2025/9: PhD Research Scholarship, 
 *Simon Fraser University*
 
@@ -121,7 +124,7 @@ Supervisor: Dr. Christine Dow
 
 # Membership, credentials, and service
 
-**Reviewer**: JGR: Earth Surface (2024), The Cryosphere (2023), Geophysical Research Letters (2023), Journal of Glaciology (2022)
+**Reviewer**: Nature (2024), JGR: Earth Surface (2024), The Cryosphere (2023), Geophysical Research Letters (2023), Journal of Glaciology (2022)
 
 2019 - present: Member, International Glaciology Society, AGU
 
@@ -144,6 +147,7 @@ Supervisor: Dr. Christine Dow
 2019/4 – 2020/4: Executive, University of Waterloo Outers Club
 
 # Publications
+Killingbeck, S. F., Rutishauser, A., Unsworth, M. J., Dubnick, A., Criscitiello, A. S., Killingbeck, J., Dow, C. F., **Hill, T.**, Booth, A.D., Main, B., and Brossier, E. (2024). Misidentified subglacial lake beneath the Devon Ice Cap, Canadian Arctic: a new interpretation from seismic and electromagnetic data *The Cryosphere*, 18, 3699-3722. [https://doi.org/10.5194/tc-18-3699-2024](https://doi.org/10.5194/tc-18-3699-2024)
 
 **Hill, T.**, Flowers, G. E., Hoffman, M. J., Bingham, D. and Werder, M. A. (2023). Improved representation of laminar and turbulent sheet flow in subglcial drainage models. *Journal of Glaciology*, 1-14. [https://doi.org/10.1017/jog.2023.103](https://doi.org/10.1017/jog.2023.103)
 
@@ -164,6 +168,8 @@ Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (
 # Presentations
 
 ## Primary author
+**Hill, T.**\*, Flowers, G., Bingham, D., and Hoffman, M. (2024) Gaussian process emulation of subglacial drainage. Oral presentation at the International Symposium on Verification and Validation of Cryospheric Models 2024.
+
 **Hill, T.**\*, Flowers, G., Hoffman, M., Bingham D., and Weder M. (2023) Improved representation of laminar and turbulent sheet flow in subglacial drainage models. Oral presentation at the AGU Fall Meeting 2023.
 
 **Hill, T.**\*, Flowers, G., Hoffman, M., Bingham D., and Weder M. (2023) Laminar and turbulent subglacial water flow. Oral presentation at the Annual Meeting of the Northwest Glaciologists 2023.

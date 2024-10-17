@@ -138,9 +138,9 @@ Supervisor: Dr. Christine Dow
 
 # Community and volunteer activities and service
 
-2023/9 - 2024/9: **Administration and Finance Coordinator**, APECS Canada
+2023/10 - 2025/9: **Administration and Finance Coordinator**, APECS Canada
 
-2023/9 - 2024/9: **Graduate Student Society Representative**, Department of Earth Sciences
+2023/9 - 2025/9: **Graduate Student Society Representative**, Department of Earth Sciences
 
 2020/5 – 2021/9: President, University of Waterloo Outers Club
 

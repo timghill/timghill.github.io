@@ -10,5 +10,5 @@ Contemporary subglacial drainage models typically assume that subglacial water f
 
 ## Citation
 
-Hill T, Flowers GE, Hoffman MJ, Bingham D, Werder MA. Improved representation of laminar and turbulent sheet flow in subglacial drainage models. *Journal of Glaciology*, 1-14. [doi:10.1017/jog.2023.103](https://doi.org/10.1017/jog.2023.103)
+Hill T, Flowers GE, Hoffman MJ, Bingham D, Werder MA. (2024) Improved representation of laminar and turbulent sheet flow in subglacial drainage models. *Journal of Glaciology*, 70, e24. [doi:10.1017/jog.2023.103](https://doi.org/10.1017/jog.2023.103)
 

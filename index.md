@@ -4,7 +4,7 @@ permalink: /
 title: "Tim Hill"
 tagline: "PhD Candidate, Simon Fraser University. Glacier hydrology, dynamics, and statistical emulation"
 header:
-  overlay_image: /assets/images/header_index.png
+  overlay_image: /assets/images/header/index.png
   caption: White Glacier, Axel Heiberg Island, Nunavut
 feature_row:
   - image_path: /assets/images/teaser_index_about.jpg
@@ -14,18 +14,18 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/teaser_index_cv.jpg
-    alt: "Screenshot of Journal of Glaciology Energy Balance paper"
+  - image_path: /assets/images/teaser_index_cv_updated.jpg
+    alt: "Screenshot of paper headers"
     title: "CV"
     excerpt: "Publications, scholarships, and more"
     url: "/CV/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/teaser_index_projects.jpg
-    alt: "Energy balance model results"
+    alt: "Summary of laminar-turbulent transition model results"
     title: "Projects"
     excerpt: "More about my work"
-    url: "/projects/"
+    url: "/projects/"Energy balance model results"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---

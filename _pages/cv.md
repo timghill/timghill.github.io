@@ -152,7 +152,7 @@ Supervisor: Dr. Christine Dow
 
 Killingbeck, S. F., Rutishauser, A., Unsworth, M. J., Dubnick, A., Criscitiello, A. S., Killingbeck, J., Dow, C. F., **Hill, T.**, Booth, A.D., Main, B., and Brossier, E. (2024). Misidentified subglacial lake beneath the Devon Ice Cap, Canadian Arctic: a new interpretation from seismic and electromagnetic data *The Cryosphere*, 18, 3699-3722. [https://doi.org/10.5194/tc-18-3699-2024](https://doi.org/10.5194/tc-18-3699-2024)
 
-**Hill, T.**, Flowers, G. E., Hoffman, M. J., Bingham, D. and Werder, M. A. (2023). Improved representation of laminar and turbulent sheet flow in subglcial drainage models. *Journal of Glaciology*, 1-14. [https://doi.org/10.1017/jog.2023.103](https://doi.org/10.1017/jog.2023.103)
+**Hill, T.**, Flowers, G. E., Hoffman, M. J., Bingham, D. and Werder, M. A. (2024). Improved representation of laminar and turbulent sheet flow in subglcial drainage models. *Journal of Glaciology*, 70, e24. [https://doi.org/10.1017/jog.2023.103](https://doi.org/10.1017/jog.2023.103)
 
 **Hill, T.** and Dow, C. F. (2023). The impact of surface melt rate and catchment characteristics on Greenland Ice Sheet moulin inputs. *The Cryosphere* [https://doi.org/10.5194/tc-17-2607-2023](https://doi.org/10.5194/tc-17-2607-2023)
 

@@ -11,8 +11,7 @@ feature_row:
     url: "/projects/subglacial_emulator/"
     btn_class: "btn--primary"
     btn-label: "Learn more"
-  - image_path: /assets/images/projects/05_laminar_turbulent/teaser_laminar_turbulent
-  .jpg
+  - image_path: /assets/images/projects/05_laminar_turbulent/teaser_laminar_turbulent.jpg
     alt: "Laminar and turbulent subglacial water flow"
     title: "Laminar and turbulent subglacial water flow"
     url: "/projects/laminar_turbulent/"

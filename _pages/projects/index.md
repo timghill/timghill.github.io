@@ -8,19 +8,19 @@ feature_row:
   - image_path: /assets/images/projects/06_gladsgp/teaser_gladsgp.jpg
     alt: "A Gaussian process subglacial drainage model emulator"
     title: "A Gaussian process subglacial drainage model emulator"
-    url: "/projects/subglacial_emulator/"
+    url: "/projects/glads-gp/"
     btn_class: "btn--primary"
     btn-label: "Learn more"
   - image_path: /assets/images/projects/05_laminar_turbulent/teaser_laminar_turbulent.jpg
     alt: "Laminar and turbulent subglacial water flow"
     title: "Laminar and turbulent subglacial water flow"
-    url: "/projects/laminar_turbulent/"
+    url: "/projects/laminar-turbulent/"
     btn_class: "btn--primary"
     btn-label: "Learn more"
   - image_path: /assets/images/projects/04_sads_application/teaser_sads_application.jpg
     alt: "Greenland hydrological modelling"
     title: "Interannual variability in Greenland surface hydrology"
-    url: "/projects/greenland/"
+    url: "/projects/sads-application/"
     btn_class: "btn--primary"
     btn-label: "Learn more"
   - image_path: /assets/images/projects/03_sads/teaser_sads.jpg

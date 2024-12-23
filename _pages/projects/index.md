@@ -5,7 +5,7 @@ header:
   image: /assets/images/header_projects.jpg
   caption: Vulcan group, Yukon
 feature_row:
-  - image_path: /assets/images/projects/07_glads_calibration/post_glads_timeseries.jpg
+  - image_path: /assets/images/projects/07_glads_calibration/teaser_glads_calibration.jpg
     alt: "Bayesian calibration of a subglacial drainage model"
     title: "Bayesian calibration of a subglacial drainage model"
     url: "/projects/glads-calibration/"

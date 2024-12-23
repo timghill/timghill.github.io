@@ -25,7 +25,7 @@ feature_row:
     alt: "Summary of laminar-turbulent transition model results"
     title: "Projects"
     excerpt: "More about my work"
-    url: "/projects/"Energy balance model results"
+    url: "/projects/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---

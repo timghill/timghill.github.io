@@ -22,39 +22,39 @@ I'm always happy to chat over a (virtual) coffee, just send me an email at [tim_
 
 
 <figure class="third">
-	<a href="/assets/images/gallery_01.jpg" rel="White Glacier"><img src="/assets/images/gallery_001.jpg" alt="" /></a>
-        <a href="/assets/images/gallery_02.jpg" rel="White Glacier"><img src="/assets/images/gallery_002.jpg" alt="" /></a>
-        <a href="/assets/images/gallery_03.jpg" rel="White Glacier"><img src="/assets/images/gallery_003.jpg" alt="" /></a>
+	<a href="/assets/images/gallery/gallery_01.jpg" rel="White Glacier"><img src="/assets/images/gallery/gallery_001.jpg" alt="" /></a>
+        <a href="/assets/images/gallery/gallery_02.jpg" rel="White Glacier"><img src="/assets/images/gallery/gallery_002.jpg" alt="" /></a>
+        <a href="/assets/images/gallery/gallery_03.jpg" rel="White Glacier"><img src="/assets/images/gallery/gallery_003.jpg" alt="" /></a>
 	<figcaption>White Glacier, July 2019</figcaption>
 </figure>
 
 <figure class="half">
-        <a href="/assets/images/gallery_004.jpg" rel="Three Sisters, Canmore"><img src="/assets/images/gallery_004.jpg" alt="" /></a>
-        <a href="/assets/images/gallery_005.jpg" rel="Crevasse Rescue Training, Canmore"><img src="/assets/images/gallery_005.jpg" alt="" /></a>
+        <a href="/assets/images/gallery/gallery_004.jpg" rel="Three Sisters, Canmore"><img src="/assets/images/gallery/gallery_004.jpg" alt="" /></a>
+        <a href="/assets/images/gallery/gallery_005.jpg" rel="Crevasse Rescue Training, Canmore"><img src="/assets/images/gallery/gallery_005.jpg" alt="" /></a>
 	<figcaption>Crevasse rescue training in Canmore, AB.</figcaption>
 </figure>
 
 <figure>
-  <a href="/assets/images/gallery_006.jpg" rel=""><img src="/assets/images/gallery_006.jpg" alt="Pulling a sled on Devon Ice Cap"/></a>
+  <a href="/assets/images/gallery/gallery_006.jpg" rel=""><img src="/assets/images/gallery/gallery_006.jpg" alt="Pulling a sled on Devon Ice Cap"/></a>
 </figure>
 
 
 <figure class="third">
-        <a href="/assets/images/gallery_007.jpg" rel="Lake Louise"><img src="/assets/images/gallery_007.jpg" alt="" /></a>
-        <a href="/assets/images/gallery_008.jpg" rel="Lake Huron"><img src="/assets/images/gallery_008.jpg" alt="" /></a>
-        <a href="/assets/images/gallery_009.jpg" rel="Winter portrait"><img src="/assets/images/gallery_009.jpg" alt="" /></a>
+        <a href="/assets/images/gallery/gallery_007.jpg" rel="Lake Louise"><img src="/assets/images/gallery/gallery_007.jpg" alt="" /></a>
+        <a href="/assets/images/gallery/gallery_008.jpg" rel="Lake Huron"><img src="/assets/images/gallery/gallery_008.jpg" alt="" /></a>
+        <a href="/assets/images/gallery/gallery_009.jpg" rel="Winter portrait"><img src="/assets/images/gallery/gallery_009.jpg" alt="" /></a>
 	<figcaption>Devon Ice Cap, May 2022</figcaption>
 </figure>
 
 <figure class="half">
-        <a href="/assets/images/gallery_010.jpg" rel="Kaskawulsh Glacier, Yukon"><img src="/assets/images/gallery_010.jpg" alt="" /></a>
-        <a href="/assets/images/gallery_011.jpg" rel="Kaskawulsh Glacier, Yukon"><img src="/assets/images/gallery_011.jpg" alt="" /></a>
+        <a href="/assets/images/gallery/gallery_010.jpg" rel="Kaskawulsh Glacier, Yukon"><img src="/assets/images/gallery/gallery_010.jpg" alt="" /></a>
+        <a href="/assets/images/gallery/gallery_011.jpg" rel="Kaskawulsh Glacier, Yukon"><img src="/assets/images/gallery/gallery_011.jpg" alt="" /></a>
 </figure>
 
 <figure class="third">
-        <a href="/assets/images/gallery_012.jpg" rel="Kaskawulsh Glacier, Yukon"><img src="/assets/images/gallery_012.jpg" alt="" /></a>
-        <a href="/assets/images/gallery_013.jpg" rel="Kaskawulsh Glacier, Yukon"><img src="/assets/images/gallery_013.jpg" alt="" /></a>
-        <a href="/assets/images/gallery_014.jpg" rel="Winter portrait"><img src="/assets/images/gallery_014.jpg" alt="" /></a>
+        <a href="/assets/images/gallery/gallery_012.jpg" rel="Kaskawulsh Glacier, Yukon"><img src="/assets/images/gallery/gallery_012.jpg" alt="" /></a>
+        <a href="/assets/images/gallery/gallery_013.jpg" rel="Kaskawulsh Glacier, Yukon"><img src="/assets/images/gallery/gallery_013.jpg" alt="" /></a>
+        <a href="/assets/images/gallery/gallery_014.jpg" rel="Winter portrait"><img src="/assets/images/gallery/gallery_014.jpg" alt="" /></a>
         <figcaption>Kaskawulsh Glacier, July 2022</figcaption>
 </figure>
 

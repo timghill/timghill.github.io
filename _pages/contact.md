@@ -2,7 +2,7 @@
 layout: single
 title: "Contact"
 header:
-  image: "/assets/images/header_contact.jpg"
+  image: "/assets/images/headers/contact.jpg"
   caption: "Expedition Fiord, Nunavut"
 permalink: /contact/
 ---

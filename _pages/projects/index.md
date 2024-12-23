@@ -2,7 +2,7 @@
 layout: splash
 permalink: /projects/
 header:
-  image: /assets/images/header_projects.jpg
+  image: /assets/images/headers/projects.jpg
   caption: Vulcan group, Yukon
 feature_row:
   - image_path: /assets/images/projects/07_glads_calibration/teaser_glads_calibration.jpg

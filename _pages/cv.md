@@ -2,7 +2,7 @@
 layout: single
 title: "CV"
 header:
-  image: "/assets/images/header_CV.jpg"
+  image: "/assets/images/headers/CV.jpg"
   caption: "Devon Ice Cap Summit"
 permalink: /CV/
 ---

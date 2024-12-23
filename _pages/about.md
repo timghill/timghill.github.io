@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 header:
-  image: /assets/images/header_about.jpg
+  image: /assets/images/headers/about.jpg
   caption: Kaskawulsh Glacier, Yukon
 ---
 

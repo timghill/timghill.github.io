@@ -150,8 +150,6 @@ Supervisor: Dr. Christine Dow
 
 **Hill, T.**, Flowers, G. E., Bingham, D, Hoffman, M. J. (2024). Emulator-based Bayesian calibration of a subglacial draiange model. *Earth ArXiv Preprint*. [https://doi.org/10.31223/X5GQ68](https://doi.org/10.31223/X5GQ68)
 
-https://doi.org/10.31223/X5GQ68
-
 **Hill, T.**, Bingham, D., Flowers, G. E., Hoffman, M. J. (2024). Computationally Efficient Subglacial Drainage Modeling Using Gaussian Process Emulators. *ESS Open Archive Preprint* [https://doi.org/10.22541/essoar.172736254.41350153/v2](https://doi.org/10.22541/essoar.172736254.41350153/v2)
 
 Killingbeck, S. F., Rutishauser, A., Unsworth, M. J., Dubnick, A., Criscitiello, A. S., Killingbeck, J., Dow, C. F., **Hill, T.**, Booth, A.D., Main, B., and Brossier, E. (2024). Misidentified subglacial lake beneath the Devon Ice Cap, Canadian Arctic: a new interpretation from seismic and electromagnetic data *The Cryosphere*, 18, 3699-3722. [https://doi.org/10.5194/tc-18-3699-2024](https://doi.org/10.5194/tc-18-3699-2024)

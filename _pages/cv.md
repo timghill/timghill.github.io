@@ -140,7 +140,7 @@ Supervisor: Dr. Christine Dow
 
 2023/10 - 2025/9: **Administration and Finance Coordinator**, APECS Canada
 
-2023/9 - 2025/9: **Graduate Student Society Representative**, Department of Earth Sciences
+2023/9 - 2025/4: **Graduate Student Society Representative**, Department of Earth Sciences
 
 2020/5 – 2021/9: President, University of Waterloo Outers Club
 
@@ -148,9 +148,9 @@ Supervisor: Dr. Christine Dow
 
 # Publications
 
-**Hill, T.**, Flowers, G. E., Bingham, D, Hoffman, M. J. (2024). Emulator-based Bayesian calibration of a subglacial draiange model. *Earth ArXiv Preprint*. [https://doi.org/10.31223/X5GQ68](https://doi.org/10.31223/X5GQ68)
+**Hill, T.**, Flowers, G. E., Bingham, D, Hoffman, M. J. (2024). Emulator-based Bayesian calibration of a subglacial draiange model. *Earth ArXiv Preprint*. In Review for Annals of Glaciology. [https://doi.org/10.31223/X5GQ68](https://doi.org/10.31223/X5GQ68)
 
-**Hill, T.**, Bingham, D., Flowers, G. E., Hoffman, M. J. (2024). Computationally Efficient Subglacial Drainage Modeling Using Gaussian Process Emulators. *ESS Open Archive Preprint* [https://doi.org/10.22541/essoar.172736254.41350153/v2](https://doi.org/10.22541/essoar.172736254.41350153/v2)
+**Hill, T.**, Bingham, D., Flowers, G. E., Hoffman, M. J. (2024). Computationally Efficient Subglacial Drainage Modeling Using Gaussian Process Emulators. *ESS Open Archive Preprint*. In Press for Geoscientific Model Development. [https://doi.org/10.22541/essoar.172736254.41350153/v2](https://doi.org/10.22541/essoar.172736254.41350153/v2)
 
 Killingbeck, S. F., Rutishauser, A., Unsworth, M. J., Dubnick, A., Criscitiello, A. S., Killingbeck, J., Dow, C. F., **Hill, T.**, Booth, A.D., Main, B., and Brossier, E. (2024). Misidentified subglacial lake beneath the Devon Ice Cap, Canadian Arctic: a new interpretation from seismic and electromagnetic data *The Cryosphere*, 18, 3699-3722. [https://doi.org/10.5194/tc-18-3699-2024](https://doi.org/10.5194/tc-18-3699-2024)
 

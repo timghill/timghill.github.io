@@ -111,6 +111,9 @@ Supervisor: Dr. Christine Dow
 
 # Teaching
 
+2025/1 - 2025/4: **Teaching Assistant**, Simon Fraser Univeristy\
+*EASC 305: Quantitative methods for Earth Science*
+
 2023/1 - 2023/4: **Accessible Learning Lab Aid**, Center for Accessible Learning, Simon Fraser University\
 *EASC 314: Principles of Glaciology*
 
@@ -124,7 +127,7 @@ Supervisor: Dr. Christine Dow
 
 # Membership, credentials, and service
 
-**Reviewer**: Nature (2024), JGR: Earth Surface (2024), The Cryosphere (2023), Geophysical Research Letters (2023), Journal of Glaciology (2022)
+**Reviewer**: Nature Communications (2025), Nature (2024), JGR: Earth Surface (2024), The Cryosphere (2023), Geophysical Research Letters (2023), Journal of Glaciology (2022, 2025)
 
 2019 - present: Member, International Glaciology Society, AGU
 
@@ -138,9 +141,11 @@ Supervisor: Dr. Christine Dow
 
 # Community and volunteer activities and service
 
-2023/10 - 2025/9: **Administration and Finance Coordinator**, APECS Canada
+2023/10 - 2025/9: **Vice-Chair, Administration and Finance**, APECS Canada
 
-2023/9 - 2025/4: **Graduate Student Society Representative**, Department of Earth Sciences
+2023/9 - 2025/4: **Graduate Student Society Representative**, Department of Earth Sciences Graduate Student Caucus
+
+2023/9 - 2025/4: **Secretary**, Department of Earth Sciences Graduate Student Causes
 
 2020/5 – 2021/9: President, University of Waterloo Outers Club
 
@@ -154,7 +159,7 @@ Supervisor: Dr. Christine Dow
 
 Killingbeck, S. F., Rutishauser, A., Unsworth, M. J., Dubnick, A., Criscitiello, A. S., Killingbeck, J., Dow, C. F., **Hill, T.**, Booth, A.D., Main, B., and Brossier, E. (2024). Misidentified subglacial lake beneath the Devon Ice Cap, Canadian Arctic: a new interpretation from seismic and electromagnetic data *The Cryosphere*, 18, 3699-3722. [https://doi.org/10.5194/tc-18-3699-2024](https://doi.org/10.5194/tc-18-3699-2024)
 
-**Hill, T.**, Flowers, G. E., Hoffman, M. J., Bingham, D. and Werder, M. A. (2024). Improved representation of laminar and turbulent sheet flow in subglcial drainage models. *Journal of Glaciology*, 70, e24. [https://doi.org/10.1017/jog.2023.103](https://doi.org/10.1017/jog.2023.103)
+**Hill, T.**, Flowers, G. E., Hoffman, M. J., Bingham, D. and Werder, M. A. (2024). Improved representation of laminar and turbulent sheet flow in subglacial drainage models. *Journal of Glaciology*, 70, e24. [https://doi.org/10.1017/jog.2023.103](https://doi.org/10.1017/jog.2023.103)
 
 **Hill, T.** and Dow, C. F. (2023). The impact of surface melt rate and catchment characteristics on Greenland Ice Sheet moulin inputs. *The Cryosphere* [https://doi.org/10.5194/tc-17-2607-2023](https://doi.org/10.5194/tc-17-2607-2023)
 
@@ -172,7 +177,11 @@ Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (
 
 # Presentations
 
+## Invited
+**Hill, T.**\*, Flowers, G., Bingham, D., and Hoffman, M. (2024) Subglacial drainage modelling and Bayesian calibration using Gaussian Process emulators. Oral presentation at the EGU General Assembly 2025.
+
 ## Primary author
+
 **Hill, T.**\*, Flowers, G., Bingham, D., and Hoffman, M. (2024) Gaussian process emulation of subglacial drainage. Oral presentation at the International Symposium on Verification and Validation of Cryospheric Models 2024.
 
 **Hill, T.**\*, Flowers, G., Hoffman, M., Bingham D., and Weder M. (2023) Improved representation of laminar and turbulent sheet flow in subglacial drainage models. Oral presentation at the AGU Fall Meeting 2023.

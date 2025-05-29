@@ -178,7 +178,7 @@ Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (
 # Presentations
 
 ## Invited
-**Hill, T.**\*, Flowers, G., Bingham, D., and Hoffman, M. (2024) Subglacial drainage modelling and Bayesian calibration using Gaussian Process emulators. Oral presentation at the EGU General Assembly 2025.
+**Hill, T.**\*, Flowers, G., Bingham, D., and Hoffman, M. (2025) Subglacial drainage modelling and Bayesian calibration using Gaussian Process emulators. Oral presentation at the EGU General Assembly 2025.
 
 ## Primary author
 

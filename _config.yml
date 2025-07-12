@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Tim Hill"
-subtitle: "PhD student, SFU"
+subtitle: "PhD candidate, SFU"
 name: &name "Tim Hill"
 email: tim_hill_2@sfu.ca
 description: "Tim Hill: PhD candidate, SFU Earth Sciences"

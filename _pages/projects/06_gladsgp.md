@@ -12,4 +12,4 @@ For this project, we constructed a fast Gaussian process emulator of the GlaDS s
 
 ## Citation
 
-Hill, T., Bingham, D., Flowers, G. E., Hoffman, M. J. (2024). Computationally Efficient Subglacial Drainage Modeling Using Gaussian Process Emulators: GlaDS-GP v1.0. *Geoscientific Model Development*, 18, 4045-4074 [https://doi.org/10.22541/essoar.172736254.41350153/v2](https://doi.org/10.22541/essoar.172736254.41350153/v2)](https://doi.org/10.5194/gmd-18-4045-2025)
+Hill, T., Bingham, D., Flowers, G. E., Hoffman, M. J. (2024). Computationally Efficient Subglacial Drainage Modeling Using Gaussian Process Emulators: GlaDS-GP v1.0. *Geoscientific Model Development*, 18, 4045-4074 [https://doi.org/10.5194/gmd-18-4045-2025](https://doi.org/10.5194/gmd-18-4045-2025)

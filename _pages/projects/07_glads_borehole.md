@@ -12,4 +12,4 @@ For this projct, we explore using borehole water pressure observations to constr
 
 ## Preprint
 
-*Coming soon*
+Hill, T., Flowers G. E., Bingham, D., & Hoffman, M. J. (2024). Emulator-based Bayesian calibration of a subglacial drainage model. *Earth ArXiv Preprint*, [https://doi.org/10.31223/X5GQ68](https://doi.org/10.31223/X5GQ68). Submitted to Annals of Glaciology, Accepted 23 June 2025

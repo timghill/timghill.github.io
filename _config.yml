@@ -73,6 +73,9 @@ author:
     - label: "tim_hill_2@sfu.ca"
       icon: "far fa-envelope"
       url: "mailto:tim_hill_2@sfu.ca"
+    - label: "Google scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=vpeGPqoAAAAJ&hl=en"
 
 footer:
   links:

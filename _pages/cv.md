@@ -20,8 +20,66 @@ Supervisor: Dr. Christine Dow
 
 2014 - 2019: **Bachelor of Science**, Honours Co-operative Mathematical Physics, University of Waterloo
 
+# Research positions
+
+2023/8: **Field Assistant**, Geological Survey of Canada: Alpine Hazards of Deglaciation in the Joffre Lakes basin
+
+2022/5/2 - 2022/6/7: **Field Assistant**, SEARCH<sup>Arctic</sup> project, Devon Ice Cap, Nunavut
+
+2019/5 - 2019/9: **Research Assistant**, Climate Research Division, Environment and Climate Change Canada
+
+2018/5 - 2018/8: **Undergraduate Research Assistant**, Department of Applied Mathematics, University of Waterloo
+
+2017/9 - 2017/12: **Undergraduate Research Assistant**, Institute for Quantum Computing, University of Waterloo
+
+2016/9 - 2017/4: **Research Assistant**, Climate Research Division, Environment and Climate Change Canada
+
+# Teaching
+
+2025/1 - 2025/4: **Teaching Assistant**, Simon Fraser Univeristy\
+*EASC 305: Quantitative methods for Earth Science*
+
+2023/1 - 2023/4: **Accessible Learning Lab Aid**, Center for Accessible Learning, Simon Fraser University\
+*EASC 314: Principles of Glaciology*
+
+2020/9 - 2020/12: **Teaching Assistant**, University of Waterloo\
+*Math 227: Calculus 3 for Honours Physics*
+
+# Mentorship
+
+2023/4 - 2023/8: **Supervisor**, Undergraduate Research Assistant\
+*Subglacial hydrology modelling with the Ice-sheet and Sea-level System Model*
+
+# Membership, credentials, and service
+
+**Reviewer**: Nature Communications (2025), Nature (2024), JGR: Earth Surface (2024), The Cryosphere (2023), Geophysical Research Letters (2023), Journal of Glaciology (2022, 2025), IASC Fellowships (2025, 2024)
+
+2019 - present: Member, International Glaciology Society, AGU
+
+2023/5, 2022/4: Crevasse Rescue Training, Canada West Mountain School
+
+2023/1: Avalanche Skills Training Level 1, Canada West Mountain School
+
+2022/3: Wilderness First Aid (40 hour) and CPR-C
+
+2018/6: Certificate in High Performance Computing, Compute Canada
+
+# Community and volunteer activities and service
+
+2023/10 - present: **Vice-Chair Administration and Finance**, [APECS Canada](https://apecscanada.wixsite.com/ehpecs)
+
+2023/9 - 2025/4: **Graduate Student Society Representative**, Department of Earth Sciences Graduate Student Caucus
+
+2023/9 - 2025/4: **Secretary**, Department of Earth Sciences Graduate Student Causes
+
+2020/5 – 2021/9: **President**, University of Waterloo Outers Club
+
+2019/4 – 2020/4: **Executive At Large**, University of Waterloo Outers Club
+
 
 # Scholarships and awards
+
+2024/8: Best oral presentation, IGS model verification symposium
 
 2024/4: Outstanding Reviewer Award,
 *The European Geosciences Union -- The Cryosphere*
@@ -83,77 +141,9 @@ Supervisor: Dr. Christine Dow
 2014/9: President’s Scholarship of Distinction, 
 *University of Waterloo* -->
 
-# Field experience
-
-2023/8: Alpine Hazards of Deglaciation, Joffre Lakes basin
-
-2023/6: Kaskawulsh Glacier, Yukon
-
-2022/7/16 - 2022/7/27: Kaskawulsh Glacier, Yukon
-
-2022/5/2 - 2022/6/7: SEARCH<sup>Arctic</sup> project, Devon Ice Cap, Nunavut
-
-2019/7: Expedition Fiord, Axel Heiberg Island, Nunavut
-
-# Research experience
-
-2023/8: **Field Assistant**, Geological Survey of Canada
-
-2019/5 - 2019/9: **Research Assistant**, Climate Research Division, Environment and Climate Change Canada
-
-2019/7: **Field Assistant**, McGill Arctic Research Station, Nunavut
-
-2018/5 - 2018/8: **Undergraduate Research Assistant**, Department of Applied Mathematics, University of Waterloo
-
-2017/9 - 2017/12: **Undergraduate Research Assistant**, Institute for Quantum Computing, University of Waterloo
-
-2016/9 - 2017/4: **Research Assistant**, Climate Research Division, Environment and Climate Change Canada
-
-# Teaching
-
-2025/1 - 2025/4: **Teaching Assistant**, Simon Fraser Univeristy\
-*EASC 305: Quantitative methods for Earth Science*
-
-2023/1 - 2023/4: **Accessible Learning Lab Aid**, Center for Accessible Learning, Simon Fraser University\
-*EASC 314: Principles of Glaciology*
-
-2020/9 - 2020/12: **Teaching Assistant**, University of Waterloo\
-*Math 227: Calculus 3 for Honours Physics*
-
-# Mentorship
-
-2023/4 - 2023/8: **Supervisor**, Undergraduate Research Assistant\
-*Subglacial hydrology modelling with the Ice-sheet and Sea-level System Model*
-
-# Membership, credentials, and service
-
-**Reviewer**: Nature Communications (2025), Nature (2024), JGR: Earth Surface (2024), The Cryosphere (2023), Geophysical Research Letters (2023), Journal of Glaciology (2022, 2025)
-
-2019 - present: Member, International Glaciology Society, AGU
-
-2023/5, 2022/4: Crevasse Rescue Training, Canada West Mountain School
-
-2023/1: Avalanche Skills Training Level 1, Canada West Mountain School
-
-2022/3: Wilderness First Aid (40 hour) and CPR-C
-
-2018/6: Certificate in High Performance Computing, Compute Canada
-
-# Community and volunteer activities and service
-
-2023/10 - 2025/9: **Vice-Chair, Administration and Finance**, APECS Canada
-
-2023/9 - 2025/4: **Graduate Student Society Representative**, Department of Earth Sciences Graduate Student Caucus
-
-2023/9 - 2025/4: **Secretary**, Department of Earth Sciences Graduate Student Causes
-
-2020/5 – 2021/9: President, University of Waterloo Outers Club
-
-2019/4 – 2020/4: Executive, University of Waterloo Outers Club
-
 # Publications
 
-**Hill, T.**, Flowers, G. E., Bingham, D, Hoffman, M. J. (2025). Emulator-based Bayesian calibration of a subglacial draiange model. *Earth ArXiv Preprint*. In press for Annals of Glaciology (accepted 23 June 2025). [https://doi.org/10.31223/X5GQ68](https://doi.org/10.31223/X5GQ68)
+**Hill, T.**, Flowers, G. E., Bingham, D, Hoffman, M. J. (2025). Emulator-based Bayesian calibration of a subglacial draiange model. *Journal of Glaciology, Accepted Manuscript*, 1-42. [https://doi.org/10.1017/aog.2025.10016](https://doi.org/10.1017/aog.2025.10016)
 
 **Hill, T.**, Bingham, D., Flowers, G. E., Hoffman, M. J. (2025). Computationally efficient subglacial drainage modelling Using Gaussian process emulators: GlaDS-GP v1.0. *Geoscientific Model Development*, 18, 4045-4074. [https://doi.org/10.5194/gmd-18-4045-2025](https://doi.org/10.5194/gmd-18-4045-2025)
 
@@ -164,8 +154,6 @@ Killingbeck, S. F., Rutishauser, A., Unsworth, M. J., Dubnick, A., Criscitiello,
 **Hill, T.** and Dow, C. F. (2023). The impact of surface melt rate and catchment characteristics on Greenland Ice Sheet moulin inputs. *The Cryosphere* [https://doi.org/10.5194/tc-17-2607-2023](https://doi.org/10.5194/tc-17-2607-2023)
 
 **Hill, T.**, and Dow, C. F. (2021). Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow with the Subaerial Drainage System (SaDS) Model. *Journal of Geophysical Research: Earth Surface*. 126, e2021JF006309. [https://doi.org/10.1029/2021JF006309](https://doi.org/10.1029/2021JF006309)
-
-**Hill, T.** (2021). *Mathematical modelling of supraglacial meltwater production and drainage*. Masters thesis, UWSpace. [http://hdl.handle.net/10012/17307](http://hdl.handle.net/10012/17307)
 
 **Hill, T.**, Dow, C. F., Bash, E. A., and Copland, L. (2021) Application of an improved surface energy balance model to two large valley glaciers in the St. Elias Mountains, Yukon. *Journal of Glaciology*. *67*(262), 297-312. [doi:10.1017/jog.2020.106](https://doi.org/10.1017/jog.2020.106)
 
@@ -214,10 +202,10 @@ Killingbeck, S.\*, Killingbeck, J., **Hill, T.**, Main, B., Brossier, E., Unswor
 
 Siu, K.\*, Dow, C. F., Morlighem, M., McCormack, F., and **Hill, T.** (2022) Modelling Subglacial Hydrology under Future Climate Scenarios in Wilkes Subglacial Basin, Antarctica. Oral presentation at EGU General Assembly 2022, Vienna, Austra, EGU22-424.
 
-<!-- Mastrogiacomo, J.-P.\*, Nassar, R., **Hill, T.**, Pavlick, R., Nelson, R., O'Dell, C., Eldering, A., and Crisp, D. (2021) Quantifying CO2 Emissions from Smaller Point Sources by Using Multiple OCO-3 Images. Poster presentation at IWGGMS 17, online, 14-17 June 2021. -->
+Mastrogiacomo, J.-P.\*, Nassar, R., **Hill, T.**, Pavlick, R., Nelson, R., O'Dell, C., Eldering, A., and Crisp, D. (2021) Quantifying CO2 Emissions from Smaller Point Sources by Using Multiple OCO-3 Images. Poster presentation at IWGGMS 17, online, 14-17 June 2021.
 
 Nassar, R.\*, Mastrogiacomo, J.-P., Bateman-Hemphill, W., McCracken. C., MacDonald, C., **Hill, T.**, O'Dell, C., Nelson, R., Kiel, M., Pavlick, R., Eldering, A., and Crisp, D. (2021) Space-based detection of CO2 emission reductions due to COVID-19 at Europe's largest fossil fuel power plant and implications for CO2 emission monitoring, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-8979, https://doi.org/10.5194/egusphere-egu21-8979.
 
-<!-- Nassar, R.\*, **Hill, T.**, McCracken, C., MacDonald, C., Zheng, T., Kiel, M., Nelson, R., Crisp, D. (2019) Quantifying localized anthropogenic CO2 sources from space: Current capabilities and requirements for a policy-relevant monitoring system. Oral presentation at AGU Fall Meeting 2019, San Francisco, USA. https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/493320 -->
+Nassar, R.\*, **Hill, T.**, McCracken, C., MacDonald, C., Zheng, T., Kiel, M., Nelson, R., Crisp, D. (2019) Quantifying localized anthropogenic CO2 sources from space: Current capabilities and requirements for a policy-relevant monitoring system. Oral presentation at AGU Fall Meeting 2019, San Francisco, USA. https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/493320
 
 Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2017) Quantifying CO2 emissions from individual power plants using OCO-2 observations. Oral presentation at AGU Fall Meeting 2017, San Francisco, USA.

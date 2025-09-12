@@ -77,6 +77,8 @@ Geophysical Research Letters
 
 # Scholarships, honours and awards
 
+2024: Graham Cogley Award, *International Glaciological Society*
+
 2024/8: Best oral presentation, IGS model verification symposium
 
 2024/4: Outstanding Reviewer Award,
@@ -167,6 +169,9 @@ Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (
 **Hill, T.**\*, Flowers, G., Bingham, D., and Hoffman, M. (2025) Subglacial drainage modelling and Bayesian calibration using Gaussian Process emulators. Oral presentation at the EGU General Assembly, Vienna, Austria EGU25-3771. [https://doi.org/10.5194/egusphere-egu25-3771](https://doi.org/10.5194/egusphere-egu25-3771)
 
 ## Primary author
+
+
+**Hill, T.**\*, Flowers, G., Hoffman, M., and Bingham, D. (2025) Random-Forest Parameterization of Antarctic Subglacial Hydrology. Poster presentation at West Antarctic Ice Sheet Workshop, Coupeville, USA.
 
 **Hill, T.**\*, Flowers, G., Bingham, D., and Hoffman, M. (2025) Subglacial drainage modelling and Bayesian calibration using Gaussian Process emulators. Seminar at SFU Earth Sciences Research Day, Vancouver, Canada.
 

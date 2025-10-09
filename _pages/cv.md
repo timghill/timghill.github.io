@@ -143,7 +143,7 @@ Geophysical Research Letters
 
 # Publications
 
-**Hill, T.**, Flowers, G. E., Bingham, D, Hoffman, M. J. (2025). Emulator-based Bayesian calibration of a subglacial draiange model. *Journal of Glaciology, Accepted Manuscript*, 1-42. [https://doi.org/10.1017/aog.2025.10016](https://doi.org/10.1017/aog.2025.10016)
+**Hill, T.**, Flowers, G. E., Bingham, D, Hoffman, M. J. (2025). Emulator-based Bayesian calibration of a subglacial draiange model. *Journal of Glaciology*, 66, e22. [https://doi.org/10.1017/aog.2025.10016](https://doi.org/10.1017/aog.2025.10016)
 
 **Hill, T.**, Bingham, D., Flowers, G. E., Hoffman, M. J. (2025). Computationally efficient subglacial drainage modelling Using Gaussian process emulators: GlaDS-GP v1.0. *Geoscientific Model Development*, 18, 4045-4074. [https://doi.org/10.5194/gmd-18-4045-2025](https://doi.org/10.5194/gmd-18-4045-2025)
 

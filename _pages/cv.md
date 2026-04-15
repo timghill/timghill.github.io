@@ -21,8 +21,6 @@ Supervisor: Dr. Christine Dow
 
 2014 - 2019: **Bachelor of Science**, Honours Co-operative Mathematical Physics, University of Waterloo
 
-# Research positions
-
 # Employment
 
 <!-- 2026/9 - 2028/9: **Research Associate**, Nelson Institute for Environmental Studies, Center for Climatic Research (CCR), University of Wisconsin-Madison -->
@@ -53,6 +51,9 @@ Supervisor: Dr. Christine Dow
 2019/7: Expedition Fiord, Axel Heiberg Island, Nunavut
 
 # Teaching
+
+2025/1 - 2025/4: **Teaching Assistant**, Simon Fraser university
+*EASC 305: Quantitative Methods*
 
 2023/1 - 2023/4: **Accessible Learning Lab Aid**, Center for Accessible Learning, Simon Fraser University\
 *EASC 314: Principles of Glaciology*

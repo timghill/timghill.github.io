@@ -10,9 +10,10 @@ permalink: /CV/
 <!-- [Download CV as a PDF](/assets/hill_tim_CV.pdf) -->
 
 # Education
-2021- present: **Doctor of Philosophy**, Earth Sciences, Simon Fraser University\
+2021- 2026: **Doctor of Philosophy**, Earth Sciences, Simon Fraser University\
 Thesis: *Gaussian process emulation of subglacial drainage for model calibration, uncertainty quantification and efficient coupled ice-sheet modelling*\
-Supervisors: Dr. Gwenn Flowers and Dr. Derek Bingham
+Supervisors: Dr. Gwenn Flowers and Dr. Derek Bingham\
+Awarded 7 April 2026
 
 2019 - 2021 : **Master of Mathematics**, Applied Mathematics, University of Waterloo\
 Thesis: [*Mathematical modelling of supraglacial meltwater production and drainage*](http://hdl.handle.net/10012/17307)\
@@ -22,11 +23,15 @@ Supervisor: Dr. Christine Dow
 
 # Research positions
 
-2023/8: **Field Assistant**, Geological Survey of Canada: Alpine Hazards of Deglaciation in the Joffre Lakes basin
+# Employment
 
-2022/5/2 - 2022/6/7: **Field Assistant**, SEARCH<sup>Arctic</sup> project, Devon Ice Cap, Nunavut
+<!-- 2026/9 - 2028/9: **Research Associate**, Nelson Institute for Environmental Studies, Center for Climatic Research (CCR), University of Wisconsin-Madison -->
+
+2023/8: **Field Assistant**, Geological Survey of Canada
 
 2019/5 - 2019/9: **Research Assistant**, Climate Research Division, Environment and Climate Change Canada
+
+2019/7: **Field Assistant**, McGill Arctic Research Station, Nunavut
 
 2018/5 - 2018/8: **Undergraduate Research Assistant**, Department of Applied Mathematics, University of Waterloo
 
@@ -34,10 +39,20 @@ Supervisor: Dr. Christine Dow
 
 2016/9 - 2017/4: **Research Assistant**, Climate Research Division, Environment and Climate Change Canada
 
-# Teaching
 
-2025/1 - 2025/4: **Teaching Assistant**, Simon Fraser Univeristy\
-*EASC 305: Quantitative methods for Earth Science*
+# Field experience
+
+2023/8: Alpine Hazards of Deglaciation, Joffre Lakes basin
+
+2023/6: Kaskawulsh Glacier, Yukon
+
+2022/7/16 - 2022/7/27: Kaskawulsh Glacier, Yukon
+
+2022/5/2 - 2022/6/7: SEARCH<sup>Arctic</sup> project, Devon Ice Cap, Nunavut
+
+2019/7: Expedition Fiord, Axel Heiberg Island, Nunavut
+
+# Teaching
 
 2023/1 - 2023/4: **Accessible Learning Lab Aid**, Center for Accessible Learning, Simon Fraser University\
 *EASC 314: Principles of Glaciology*
@@ -52,34 +67,34 @@ Supervisor: Dr. Christine Dow
 
 # Leadership
 
-2023/10 - present: **Vice-Chair Administration and Finance**, [APECS Canada](https://apecscanada.wixsite.com/ehpecs)
+2025/10 - 2026/9: **Ex-Officio**, APECS Canada
 
-2023/9 - 2025/4: **Graduate Student Society Representative**, Department of Earth Sciences Graduate Student Caucus
+2023/10 - 2025/9: **Administration and Finance Coordinator**, APECS Canada
 
-2023/9 - 2025/4: **Secretary**, Department of Earth Sciences Graduate Student Causes
+2023/9 - 2025/9: **Graduate Student Society Representative**, Department of Earth Sciences
 
-2020/5 – 2021/9: **President**, University of Waterloo Outers Club
+2020/5 – 2021/9: President, University of Waterloo Outers Club
 
-2019/4 – 2020/4: **Executive At Large**, University of Waterloo Outers Club
+2019/4 – 2020/4: Executive, University of Waterloo Outers Club
 
-# Peer review
 
-2025: Journal of Geophysical Research: Earth Surface, Nature Communications
-Journal of Glaciology, IASC cryosphere fellowship program
+# Service and professional memberships
 
-2024: Nature, Journal of Geophysical Research: Earth Surface, 
-Geophysical Research Letters, IASC cryosphere fellowship program
+**Reviewer**: Journal of Artificial Intelligence Research (2025), Nature Communications (2025), Nature (2024), JGR: Earth Surface (2025, 2024), Journal of Glaciology (2025, 2022), Geophysical Research Letters (2024, 2023), The Cryosphere (2023)
 
-2023: The Cryosphere
-Geophysical Research Letters
+**Membership**: International Glaciology Society, AGU (2019 - present)
 
-2022: Journal of Glaciology
 
-# Scholarships, honours and awards
+# Scholarships and awards
 
-2024: Graham Cogley Award, *International Glaciological Society*
+2026/9 - 2028/9: Canada Postdoctoral Research Award,
+*Natural Sciences and Engineering Research Council of Canada*
 
-2024/8: Best oral presentation, IGS model verification symposium
+2024: [Graham Cogley award](https://www.igsoc.org/about/awards/graham-cogley-award),
+*International Glaciological Society*
+
+2024/8: Best oral presentation, International Symposium on Verification and Validation of Cryospheric Models,
+*International Glaciological Society*
 
 2024/4: Outstanding Reviewer Award,
 *The European Geosciences Union -- The Cryosphere*
@@ -143,9 +158,11 @@ Geophysical Research Letters
 
 # Publications
 
-**Hill, T.**, Flowers, G. E., Bingham, D, Hoffman, M. J. (2025). Emulator-based Bayesian calibration of a subglacial draiange model. *Journal of Glaciology*, 66, e22. [https://doi.org/10.1017/aog.2025.10016](https://doi.org/10.1017/aog.2025.10016)
+**Hill, T**, Hoffman, M. J., Flowers, G. E., & Bingham, D. (2026) Random forest parameterization of Antarctic subglacial hydrology for coupled ice-flow modelling. *EGUsphere preprint* [submitted 2026-01-29]. https://doi.org/10.5194/egusphere-2026-343.
 
-**Hill, T.**, Bingham, D., Flowers, G. E., Hoffman, M. J. (2025). Computationally efficient subglacial drainage modelling Using Gaussian process emulators: GlaDS-GP v1.0. *Geoscientific Model Development*, 18, 4045-4074. [https://doi.org/10.5194/gmd-18-4045-2025](https://doi.org/10.5194/gmd-18-4045-2025)
+**Hill, T**, Flowers G. E., Bingham, D., & Hoffman, M. J. (2025b) Emulator-based Bayesian calibration of a subglacial drainage model. *Annals of Glaciology*, 66, e22. https://doi.org/10.1017/aog.2025.10016.
+
+**Hill, T.**, Bingham, D., Flowers, G. E., Hoffman, M. J. (2025a). Computationally Efficient Subglacial Drainage Modeling Using Gaussian Process Emulators. *Geoscientific Model Development*, 18, 4045-4074. [https://doi.org/10.5194/gmd-18-4045-2025](https://doi.org/10.5194/gmd-18-4045-2025)
 
 Killingbeck, S. F., Rutishauser, A., Unsworth, M. J., Dubnick, A., Criscitiello, A. S., Killingbeck, J., Dow, C. F., **Hill, T.**, Booth, A.D., Main, B., and Brossier, E. (2024). Misidentified subglacial lake beneath the Devon Ice Cap, Canadian Arctic: a new interpretation from seismic and electromagnetic data *The Cryosphere*, 18, 3699-3722. [https://doi.org/10.5194/tc-18-3699-2024](https://doi.org/10.5194/tc-18-3699-2024)
 
@@ -171,46 +188,52 @@ Nassar, R., **Hill, T.** G., McLinden, C., Wunch, D., Jones, D., and Crisp, D. (
 ## Primary author
 
 
-**Hill, T.**\*, Flowers, G., Hoffman, M., and Bingham, D. (2025) Random-Forest Parameterization of Antarctic Subglacial Hydrology. Poster presentation at West Antarctic Ice Sheet Workshop, Coupeville, USA.
+**Hill, T.**, Flowers, G., Bingham, D., and Hoffman, M. (2026) Subglacial drainage modelling: from fundamental physics to machine-learning emulation. IGS global seminar series, Online. **[Invited]**
 
-**Hill, T.**\*, Flowers, G., Bingham, D., and Hoffman, M. (2025) Subglacial drainage modelling and Bayesian calibration using Gaussian Process emulators. Seminar at SFU Earth Sciences Research Day, Vancouver, Canada.
+**Hill, T.**, Flowers, G., Bingham, D., and Hoffman, M. (2025) Emulator-based subglacial drainage modelling. Mathematics on Ice seminar, Online. **[Invited]**
 
-**Hill, T.**\*, Flowers, G., Bingham, D., and Hoffman, M. (2024) Gaussian process emulation of subglacial drainage. Oral presentation at the International Symposium on Verification and Validation of Cryospheric Models, Newcastle Upon Tyne, UK.
+**Hill, T**, Flowers, G., Hoffman, M, and Bingham, D. (2025) Random-Forest Parameterization of Antarctic Subglacial Hydrology. Poster presentation at the 2025 WAIS Workshop, Coupeville, USA.
 
-**Hill, T.**\*, Flowers, G., Hoffman, M., Bingham D., and Weder M. (2023) Improved representation of laminar and turbulent sheet flow in subglacial drainage models. Oral presentation at the AGU Fall Meeting, San Francisco, USA, C51B-08.
+**Hill, T.**, Flowers, G., Bingham, D., and Hoffman, M. (2025) Subglacial drainage modelling and Bayesian calibration using Gaussian Process emulators. Oral presentation at the EGU General Assembly, Vienna, Austria, EGU25-3771. https://doi.org/10.5194/egusphere-egu25-3771 **[Invited]**
 
-**Hill, T.**\*, Flowers, G., Hoffman, M., Bingham D., and Weder M. (2023) Laminar and turbulent subglacial water flow. Oral presentation at the Annual Meeting of the Northwest Glaciologists, Seattle, USA.
+**Hill, T.**, Flowers, G., Bingham, D., and Hoffman, M. (2024) Gaussian process emulation of subglacial drainage. Oral presentation at the International Symposium on Verification and Validation of Cryospheric Models 2024, Northumbria, UK. **[Oral presentation award]**
 
-**Hill, T.**\*, Flowers, G., Bingham, D., and Hoffman, M. (2023) Reconciling velocity observations and modelled subglacial winter water pressure. Oral presentation at SFU Earth Science Research Day, Vancouver, Canada.
+**Hill, T.**, Flowers, G., Hoffman, M., Bingham D., and Weder M. (2023) Improved representation of laminar and turbulent sheet flow in subglacial drainage models. Oral presentation at the AGU Fall Meeting 2023, San Francisco, USA.
 
-**Hill, T.**\*, Flowers, G., and Bingham, D. (2022) Gaussian process emulation of subglacial drainage. Oral presentation at Annual Meeting of the Northwest Glaciologists 2022, Moscow, USA.
+**Hill, T.**, Flowers, G., Hoffman, M., Bingham D., and Weder M. (2023) Laminar and turbulent subglacial water flow. Oral presentation at the Annual Meeting of the Northwest Glaciologists 2023, Seattle, USA.
 
-**Hill, T.**\*, and Dow, C. F. (2021) Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow on the Greenland Ice Sheet With the Subaerial Drainage System (SaDS) Model. Poster presentation at AGU Fall Meeting, New Orleans, USA.
+**Hill, T.**, Flowers, G., Bingham, D., and Hoffman, M. (2023) Reconciling velocity observations and modelled subglacial winter water pressure. Oral presentation at SFU Earth Science Research Day.
 
-**Hill, T.**\*, and Dow, C. F. (2021) Modelling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow. Oral presentation at Northwest Glaciologists Annual Meeting, Online.
+**Hill, T.**, Flowers, G., and Bingham, D. (2022) Gaussian process emulation of subglacial drainage. Oral presentation at Annual Meeting of the Northwest Glaciologists 2022, Moscow, USA.
 
-<!-- **Hill, T.**\* (2021) Surface energy balance modelling in the St. Elias Mountains, Yukon. Queen's University. (Invited) -->
+**Hill, T.**, and Dow, C. F. (2021) Modeling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow on the Greenland Ice Sheet With the Subaerial Drainage System (SaDS) Model. Poster presentation at AGU Fall Meeting 2021, Online.
 
-**Hill, T.**\*, and Dow, C. F. (2021) Modelling glacier melt rates and surface hydrology at the basin scale. Poster presentation at CGU Student Conference 2021, Online.
+**Hill, T.**, and Dow, C. F. (2021) Modelling the Dynamics of Supraglacial Rivers and Distributed Meltwater Flow. Oral presentation at Northwest Glaciologists Annual Meeting, Online.
 
-**Hill, T.**\*, and Dow, C. F. (2020) Modelling the Seasonal Evolution of Supraglacial Hydrology with Natural Stream Development and Dynamic Topography. Oral presentation at AGU Fall Meeting 2020, Online.
+<!-- **Hill, T.** (2021) Surface energy balance modelling in the St. Elias Mountains, Yukon. Queen's University. (Invited) -->
 
-**Hill, T.**\*, and Dow, C. F. (2020) Glacier energy balance modelling: Methods and tests on Lowell Glacier. Oral presentation at Glacier Ocean Iceberg (GO-Ice) workshop, Canmore, Canada.
+**Hill, T.**, and Dow, C. F. (2021) Modelling glacier melt rates and surface hydrology at the basin scale. Poster presentation at CGU Student Conference 2021, Online.
 
-**Hill, T.**\*, and Nassar, R. (2019) Improving power plant CO2 emission estimates from satellites: pixel size, shape, and image averaging. Poster presentation at Carbon Assimilation Workshop, Toronto, Canada.
+**Hill, T.**, and Dow, C. F. (2020) Modelling the Seasonal Evolution of Supraglacial Hydrology with Natural Stream Development and Dynamic Topography. Oral presentation at AGU Fall Meeting 2020, Online.
 
-<!-- **Hill, T.**\*, Stastna, M., and Lamb, K. (2018) Ice dynamics with the MITgcm. Oral presentation at Applied Mathematics Summer Student Conference, Waterloo, Canada. -->
+**Hill, T.**, and Dow, C. F. (2020) Glacier energy balance modelling: Methods and tests on Lowell Glacier. Oral presentation at Glacier Ocean Iceberg (GO-Ice) workshop, Canmore, Canada.
+
+<!-- **Hill, T.**, and Nassar, R. (2019) Improving power plant CO2 emission estimates from satellites: pixel size, shape, and image averaging. Poster presentation at Carbon Assimilation Workshop, Toronto, Canada. -->
+
+<!-- **Hill, T.**, Stastna, M., and Lamb, K. (2018) Ice dynamics with the MITgcm. Oral presentation at Applied Mathematics Summer Student Conference, Waterloo, Canada. -->
 
 ## Contributing author
 
-Killingbeck, S.\*, Killingbeck, J., **Hill, T.**, Main, B., Brossier, E., Unsworth, M., Dow, C., Dubnick, A., Criscitiello, A., and Rutishauser, A. (2022) Combined Geophysical Techniques Constrain the Devon Ice Cap, Canadian High Arctic, Subglacial Environment. Oral presentation at AGU Fall Meeting, Chicago, USA, C42B-05.
+Hayden, A., Dow, C., **Hill, T.**, Ehrenfeucht, S., and Pelle, T. (2026) Modelling subglacial responses to future moulin inputs in the Amundsen Sea Embayment. Poster presentation at EGU General Assembly, Vienna, Austria.
 
-Siu, K.\*, Dow, C. F., Morlighem, M., McCormack, F., and **Hill, T.** (2022) Modelling Subglacial Hydrology under Future Climate Scenarios in Wilkes Subglacial Basin, Antarctica. Oral presentation at EGU General Assembly, Vienna, Austria, EGU22-424.
+Killingbeck, S., Killingbeck, J., **Hill, T.**, Main, B., Brossier, E., Unsworth, M., Dow, C., Dubnick, A., Criscitiello, A., and Rutishauser, A. (2022) Combined Geophysical Techniques Constrain the Devon Ice Cap, Canadian High Arctic, Subglacial Environment. Oral presentation at AGU Fall Meeting 2022, Chicago, USA, C42B-05.
 
-Mastrogiacomo, J.-P.\*, Nassar, R., **Hill, T.**, Pavlick, R., Nelson, R., O'Dell, C., Eldering, A., and Crisp, D. (2021) Quantifying CO2 Emissions from Smaller Point Sources by Using Multiple OCO-3 Images. Poster presentation at IWGGMS 17, Online.
+Siu, K., Dow, C. F., Morlighem, M., McCormack, F., and **Hill, T.** (2022) Modelling Subglacial Hydrology under Future Climate Scenarios in Wilkes Subglacial Basin, Antarctica. Oral presentation at EGU General Assembly 2022, Vienna, Austra, EGU22-424.
 
-Nassar, R.\*, Mastrogiacomo, J.-P., Bateman-Hemphill, W., McCracken. C., MacDonald, C., **Hill, T.**, O'Dell, C., Nelson, R., Kiel, M., Pavlick, R., Eldering, A., and Crisp, D. (2021) Space-based detection of CO2 emission reductions due to COVID-19 at Europe's largest fossil fuel power plant and implications for CO2 emission monitoring. Oral presentation at EGU General Assembly, Online, EGU21-8979. [https://doi.org/10.5194/egusphere-egu21-8979](https://doi.org/10.5194/egusphere-egu21-8979)
+Mastrogiacomo, J.-P., Nassar, R., **Hill, T.**, Pavlick, R., Nelson, R., O'Dell, C., Eldering, A., and Crisp, D. (2021) Quantifying CO2 Emissions from Smaller Point Sources by Using Multiple OCO-3 Images. Poster presentation at IWGGMS 17, online, 14-17 June 2021.
 
-Nassar, R.\*, **Hill, T.**, McCracken, C., MacDonald, C., Zheng, T., Kiel, M., Nelson, R., Crisp, D. (2019) Quantifying localized anthropogenic CO2 sources from space: Current capabilities and requirements for a policy-relevant monitoring system. Oral presentation at AGU Fall Meeting 2019, San Francisco, USA, A44E-08.
+Nassar, R., Mastrogiacomo, J.-P., Bateman-Hemphill, W., McCracken. C., MacDonald, C., **Hill, T.**, O'Dell, C., Nelson, R., Kiel, M., Pavlick, R., Eldering, A., and Crisp, D. (2021) Space-based detection of CO2 emission reductions due to COVID-19 at Europe's largest fossil fuel power plant and implications for CO2 emission monitoring, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-8979, https://doi.org/10.5194/egusphere-egu21-8979.
 
-Nassar, R.\*, **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2017) Quantifying CO2 emissions from individual power plants using OCO-2 observations. Oral presentation at AGU Fall Meeting 2017, San Francisco, USA.
+Nassar, R., **Hill, T.**, McCracken, C., MacDonald, C., Zheng, T., Kiel, M., Nelson, R., Crisp, D. (2019) Quantifying localized anthropogenic CO2 sources from space: Current capabilities and requirements for a policy-relevant monitoring system. Oral presentation at AGU Fall Meeting, San Francisco, USA. https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/493320
+
+Nassar, R., **Hill, T.**, McLinden, C., Wunch, D., Jones, D., and Crisp, D. (2017) Quantifying CO2 emissions from individual power plants using OCO-2 observations. Oral presentation at AGU Fall Meeting, San Francisco, USA.

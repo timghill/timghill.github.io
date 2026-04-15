@@ -1,8 +1,8 @@
 ---
 layout: splash
 permalink: /
-title: "Tim Hill"
-tagline: "PhD Candidate, Simon Fraser University. Glacier hydrology, dynamics, and statistical emulation"
+title: "Tim Hill, PhD"
+tagline: "Researcher: Glacier hydrology, dynamics, and model emulation"
 header:
   overlay_image: /assets/images/headers/index.png
   caption: White Glacier, Axel Heiberg Island, Nunavut
@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/images/teaser_index_cv_updated.jpg
     alt: "Screenshot of paper headers"
     title: "CV"
-    excerpt: "Publications, scholarships, and more"
+    excerpt: "Publications, awards, and more"
     url: "/CV/"
     btn_class: "btn--primary"
     btn_label: "Learn more"

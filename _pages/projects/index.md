@@ -5,6 +5,13 @@ header:
   image: /assets/images/headers/projects.jpg
   caption: Vulcan group, Yukon
 feature_row:
+  - image_path: /assets/images/projects/08_antarctica_rf/teaser_rf.jpg
+    alt: "Random forest parameterization of Antarctic subglacial hydrology"
+    title: "Random forest parameterization of Antarctic subglacial hydrology"
+    url: "/projects/antarctica-rf/"
+    btn_class: "btn--primary"
+    btn-label: "Learn more"
+    excerpt: "Emulator-based inference of drainage model parameters"
   - image_path: /assets/images/projects/07_glads_calibration/teaser_glads_calibration.jpg
     alt: "Bayesian calibration of a subglacial drainage model"
     title: "Bayesian calibration of a subglacial drainage model"

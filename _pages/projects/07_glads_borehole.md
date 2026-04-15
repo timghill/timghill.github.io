@@ -10,6 +10,10 @@ For this projct, we explore using borehole water pressure observations to constr
 
 ![](/assets/images/projects/07_glads_calibration/post_glads_timeseries.jpg)
 
-## Preprint
+## Citation
 
+<<<<<<< HEAD
 Hill, T., Flowers G. E., Bingham, D., & Hoffman, M. J. (2024). Emulator-based Bayesian calibration of a subglacial drainage model. *Earth ArXiv Preprint*, [https://doi.org/10.31223/X5GQ68](https://doi.org/10.31223/X5GQ68). Submitted to Annals of Glaciology, Accepted 23 June 2025
+=======
+**Hill, T**, Flowers G. E., Bingham, D., & Hoffman, M. J. (2025) Emulator-based Bayesian calibration of a subglacial drainage model. *Annals of Glaciology*, 66, e22. https://doi.org/10.1017/aog.2025.10016.
+>>>>>>> 2ac873d (Update CV and projects)

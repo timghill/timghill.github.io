@@ -13,8 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+<<<<<<< HEAD
 title: "Tim Hill"
 subtitle: "PhD candidate, SFU"
+=======
+title: "Tim Hill, PhD"
+subtitle: "Researcher"
+>>>>>>> 2ac873d (Update CV and projects)
 name: &name "Tim Hill"
 email: tim_hill_2@sfu.ca
 description: "Tim Hill: PhD candidate, SFU Earth Sciences"

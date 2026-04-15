@@ -10,11 +10,7 @@ header:
 
 I have recently defended by PhD thesis in Earth Sciences at Simon Fraser university. I'm interested in applying numerical models to physical and environmental systems, especially glaciers and ice sheets.
 
-<<<<<<< HEAD
-My current research focuses on undestanding subglacial drainage using statistical and [physics-based numerical models](/projects/laminar-turbulent/). In particular, I'm interested in using emulators of physics-based models to [accelerate modelling](/projects/glads-gp/) and address [uncertainty](/projects/glads-calibration/) in contemporary models.
-=======
 My PhD research focuses on modelling subglacial drainage using statistical techniques to address uncertainty in contemporary models. I developed computationally fast emulators of subglacial drainage to enable uncertainty quantification, fully Bayesian calibration, and as a step towards large-scale hydrologyically coupled ice-sheet modelling.
->>>>>>> 2ac873d (Update CV and projects)
 
 For my Masters from the University of Waterloo in Applied Math, I developed numerical models for [glacier surface melt rates](/projects/seb/) and [supraglacial meltwater transport](/projects/sads/). These models contribute to our understanding of water resources, the impact of freshwater discharge on downstream ecosystems, glacier mass balance, and the connection between warming and glacier dynamics.
 

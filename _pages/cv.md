@@ -74,9 +74,9 @@ Supervisor: Dr. Christine Dow
 
 2023/9 - 2025/9: **Graduate Student Society Representative**, Department of Earth Sciences
 
-2020/5 – 2021/9: President, University of Waterloo Outers Club
+2020/5 – 2021/9: **President**, University of Waterloo Outers Club
 
-2019/4 – 2020/4: Executive, University of Waterloo Outers Club
+2019/4 – 2020/4: **Executive**, University of Waterloo Outers Club
 
 
 # Service and professional memberships

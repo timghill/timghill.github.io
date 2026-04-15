@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Emulator-based Bayesian calibration of a subglacial drainage model"
+title: "Random forest parameterization of Antarctic subglacial hydrology"
 permalink: /projects/antarctica-rf/
 ---
 

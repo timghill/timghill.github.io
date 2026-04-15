@@ -11,7 +11,7 @@ feature_row:
     url: "/projects/antarctica-rf/"
     btn_class: "btn--primary"
     btn-label: "Learn more"
-    excerpt: "Emulator-based inference of drainage model parameters"
+    excerpt: "Random forest parameterization of Antarctic subglacial hydrology"
   - image_path: /assets/images/projects/07_glads_calibration/teaser_glads_calibration.jpg
     alt: "Bayesian calibration of a subglacial drainage model"
     title: "Bayesian calibration of a subglacial drainage model"

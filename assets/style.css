@@ -312,7 +312,7 @@ section + section { border-top: 1px solid var(--line); }
 /* ---------- SOFTWARE / CODE ---------- */
 .repo-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
   gap: 1.2rem;
 }
 .repo-card {

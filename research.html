@@ -28,7 +28,7 @@
   <div class="wrap" style="padding-top: clamp(2.5rem, 6vw, 3.5rem); padding-bottom: 1rem;">
     <span class="eyebrow">Research</span>
     <h1 style="font-size: clamp(1.8rem, 4vw, 2.6rem);">Numerical modelling of ice-sheet and earth systems</h1>
-    <p class="tagline">An overview of the questions I work on, the methods I use, and where the tools and code live.</p>
+    <p class="tagline">My research pairs methods-driven model development with scientific question-driven applications.</p>
   </div>
 </header>
 
@@ -37,18 +37,25 @@
     <div class="theme-list">
 
       <div class="theme">
-        <h3>1. Ice-sheet dynamics under uncertain basal conditions</h3>
-        <p>Ice flow at the base of an ice sheet is controlled by conditions we can rarely observe directly: the roughness of the bed, the presence of meltwater, and the strength of subglacial sediment. I run ensembles of finite-element ice-flow simulations to explore how these unknowns propagate into uncertainty in sea-level projections, focusing on fast-flowing outlet glaciers in West Antarctica.</p>
+        <h3>1. Ice-sheet &#8211 climate interactions on glacial cycle timescales</h3>
+        <p>This work couples ice-sheet, sea-level and climate models to disentangle the individual sea-level contributions of the four paleo ice sheets over the last 21,000 years. We use large ensembles of simulations, representing uncertainty in forcing and model dynamics, to investigate how distinct ice-sheet configurations may be consistent with the sea-level record.</p>
+      </div>
+
+      <!-- <div class="theme">
+        <h3>2. Uncertainty and stochasticity in ice-sheet sea-level contribution</h3>
+        <p>...</p>
+      </div> -->
+
+      <div class="theme">
+        <h3>2. Open, reproducible research workflows</h3>
+        <p>Large model runs are only useful if others can check and build on them. I develop automated, documented, version-controlled pipelines for running and post-processing simulations on shared HPC clusters, with an emphasis on workflows that a new student or collaborator can pick up without months of onboarding.</p>
       </div>
 
       <div class="theme">
-        <h3>2. Data assimilation for glacier model calibration</h3>
-        <p>Rather than guessing model parameters, this work uses adjoint-based inversion to combine satellite-derived surface velocity and elevation-change data with physical models, producing calibrated simulations that are consistent with what we actually observe from space.</p>
-      </div>
-
-      <div class="theme">
-        <h3>3. Open, reproducible HPC workflows</h3>
-        <p>Large model runs are only useful if others can check and build on them. I develop containerised, version-controlled pipelines for running and post-processing simulations on shared HPC clusters, with an emphasis on workflows that a new student or collaborator can pick up without months of onboarding.</p>
+        
+        <h3>3. Glacier model emulation and calibration</h3>
+        <p>My PhD work developed emulators of a popular subglacial hydrology model that are are up to 100,000 times faster than solving the numerical model. The emulators were used in a Bayesian framework to calibrate model parameters and reduce uncertainty in model predictions.</p>
+        <p>Simulations that couple the emulators with an ice-flow model add to existing evidence that modellling choices, such as the representation of basal hydrology and friction, strongly influence model predictions for the coming 100 and 300 years.</p>
       </div>
 
     </div>
@@ -62,7 +69,7 @@
       <span class="eyebrow">Software &amp; tools</span>
       <h2>What I build with</h2>
     </div>
-    <p class="lede">A working sense of the stack behind the science — useful context for collaborators and hiring committees alike.</p>
+    <!-- <p class="lede"></p> -->
     <div class="chip-row">
       <span class="chip">Python</span>
       <span class="chip">Fortran</span>
@@ -84,9 +91,9 @@
       <span class="eyebrow">Models &amp; codes</span>
     <h2>The models I use</h2>
   </div>
-  <p class="lede">A working sense of the stack behind the science — useful context for collaborators and hiring committees alike.</p>
+  <!-- <p class="lede">A working sense of the stack behind the science — useful context for collaborators and hiring committees alike.</p> -->
   <div class="chip-row">
-    <span class="chip">Glacier Drainage System Model [GlaDS]</span>
+    <span class="chip">Glacier Drainage System [GlaDS] model</span>
     <span class="chip">Ice-sheet and Sea-level System Model [ISSM]</span>
     <span class="chip">Parallel Ice-Sheet Model [PISM]</span>
   </div>
@@ -99,7 +106,7 @@
       <span class="eyebrow">Background</span>
       <h2>How I got here</h2>
     </div>
-    <p>I completed my PhD at Simon Fraser University (2026), working on statistical emulation of subglacial hydrology models, advised by Dr. Gwenn Flowers and Dr. Derek Bingham. Before that, I worked on supraglacial hydrology at the University of Waterloo, supervised by Dr. Christine Dow. My research has been supported by the Natural Sciences and Engineering Research Council of Canada, the Government of Ontario, and Simon Fraser University. A full history is on my <a href="cv.html">CV</a>.</p>
+    <p>I completed my PhD at Simon Fraser University (2026), working on <href="https://summit.sfu.ca/item/40476">statistical emulation of subglacial hydrology models</href>, supervised by Dr. Gwenn Flowers and Dr. Derek Bingham. Before that, I developed a model for supraglacial hydrology or the Greenland ablation zone at the University of Waterloo, supervised by Dr. Christine Dow. My research has been supported by the Natural Sciences and Engineering Research Council of Canada, the Government of Ontario, and Simon Fraser University. A full history is on my <a href="cv.html">CV</a>.</p>
   </div>
 </section>
 

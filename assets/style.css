@@ -228,13 +228,12 @@ p { margin: 1em 0 1.1em; }
 }
 
 .hero-photo-wide {
-  /* width: 150%; */
-  height: 175px;
-  aspect-ratio: 2.5;
+  width: 100%;
+  aspect-ratio: 1;
   border-radius: 6px;
   object-fit: cover;
-  border: 1px solid var(--line);
-  background: var(--sand);
+  /* border: 1px solid var(--line); */
+  /* background: var(--sand); */
 }
 .hero-links {
   display: flex;
